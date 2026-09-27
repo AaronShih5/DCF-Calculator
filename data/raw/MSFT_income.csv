@@ -1,0 +1,27 @@
+label,concept,standard_concept,2026-06-30,2025-06-30,2024-06-30,2023-06-30,2022-06-30,2021-06-30,2020-06-30,2019-06-30,2018-06-30,2017-06-30,preferred_sign
+Product,us-gaap_SalesRevenueGoodsNet,Revenue,,,,,,,,,,57190000000.0,1
+Total revenue,us-gaap_SalesRevenueNet,Revenue,,,,,,,,,,89950000000.0,1
+Revenue,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,331839000000.0,281724000000.0,245122000000.0,211915000000.0,198270000000.0,168088000000.0,143015000000.0,125843000000.0,110360000000.0,,1
+Total cost of revenue,us-gaap_CostOfRevenue,CostOfGoodsAndServicesSold,,,,,,,,,,34261000000.0,1
+Product,us-gaap_CostOfGoodsSold,CostOfGoodsAndServicesSold,,,,,,,,,,15175000000.0,1
+Cost of revenue,us-gaap_CostOfGoodsAndServicesSold,CostOfGoodsAndServicesSold,106374000000.0,87831000000.0,74114000000.0,65863000000.0,62650000000.0,52232000000.0,46078000000.0,42910000000.0,38353000000.0,,1
+Gross margin,us-gaap_GrossProfit,GrossProfit,225465000000.0,193893000000.0,171008000000.0,146052000000.0,135620000000.0,115856000000.0,96937000000.0,82933000000.0,72007000000.0,55689000000.0,1
+Research and development,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,35562000000.0,32488000000.0,29510000000.0,27195000000.0,24512000000.0,20716000000.0,19269000000.0,16876000000.0,14726000000.0,13037000000.0,1
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,7956000000.0,7223000000.0,7609000000.0,7575000000.0,5900000000.0,5107000000.0,5111000000.0,4885000000.0,4754000000.0,4481000000.0,1
+Sales and marketing,us-gaap_SellingAndMarketingExpense,SellingGeneralAndAdminExpenses,26710000000.0,25654000000.0,24456000000.0,22759000000.0,21825000000.0,20117000000.0,19598000000.0,18213000000.0,17469000000.0,15539000000.0,1
+Service and other,msft_SalesRevenueServicesAndOtherNet,,,,,,,,,,,32760000000.0,1
+Service and other,msft_CostOfServicesAndOther,,,,,,,,,,,19086000000.0,1
+Operating income,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,155237000000.0,128528000000.0,109433000000.0,88523000000.0,83383000000.0,69916000000.0,52959000000.0,42959000000.0,35058000000.0,22326000000.0,1
+"Other income (expense), net",us-gaap_NonoperatingIncomeExpense,NonoperatingIncomeExpense,10697000000.0,-4901000000.0,-1646000000.0,788000000.0,333000000.0,1186000000.0,77000000.0,729000000.0,1416000000.0,823000000.0,1
+"Impairment, integration, and restructuring",msft_ImpairmentIntegrationAndRestructuringExpenses,,,,,,,,,,,306000000.0,1
+Income before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,165934000000.0,123627000000.0,107787000000.0,89311000000.0,83716000000.0,,,,,,1
+Provision for income taxes,us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,32185000000.0,21795000000.0,19651000000.0,16950000000.0,10978000000.0,9831000000.0,8755000000.0,4448000000.0,19903000000.0,1945000000.0,1
+Net income,us-gaap_NetIncomeLoss,NetIncome,133749000000.0,101832000000.0,88136000000.0,72361000000.0,72738000000.0,61271000000.0,44281000000.0,39240000000.0,16571000000.0,21204000000.0,1
+Cash dividends declared per common share,us-gaap_CommonStockDividendsPerShareDeclared,CommonDividendsPerShare,,,,,,,,,1.68,1.56,1
+Basic,us-gaap_EarningsPerShareBasic,,18.0,13.7,11.86,9.72,9.7,8.12,5.82,5.11,2.15,2.74,1
+Diluted,us-gaap_EarningsPerShareDiluted,,17.95,13.64,11.8,9.68,9.65,8.05,5.76,5.06,2.13,2.71,1
+Impairment and restructuring,msft_ImpairmentAndRestructuringExpenses,,,,,,,,,,0.0,,1
+Income before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,PretaxIncomeLoss,,,,,,71102000000.0,53036000000.0,43688000000.0,36474000000.0,23149000000.0,1
+Restructuring,us-gaap_RestructuringCharges,RestructuringExpenseBenefit,,,,,,,,0.0,,,1
+Basic,us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,7429000000.0,7433000000.0,7431000000.0,7446000000.0,7496000000.0,7547000000.0,7610000000.0,7673000000.0,7700000000.0,7746000000.0,1
+Diluted,us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,7453000000.0,7465000000.0,7469000000.0,7472000000.0,7540000000.0,7608000000.0,7683000000.0,7753000000.0,7794000000.0,7832000000.0,1

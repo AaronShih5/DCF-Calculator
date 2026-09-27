@@ -1,0 +1,19 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,preferred_sign
+Total revenues,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,38068000000.0,34935000000.0,1
+Interest and other financial income (charges) – net,gev_InterestAndOtherFinancialCharges,,-186000000.0,-120000000.0,-1
+Non-operating benefit income,gev_BenefitCostIncomeNonoperating,,-459000000.0,-536000000.0,-1
+Cost of equipment and services,us-gaap_CostOfGoodsAndServicesSold,CostOfGoodsAndServicesSold,30533000000.0,28850000000.0,1
+Gross profit,us-gaap_GrossProfit,GrossProfit,7535000000.0,6085000000.0,1
+Research and development expenses,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,1197000000.0,982000000.0,1
+"Selling, general, and administrative expenses",us-gaap_SellingGeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,4949000000.0,4632000000.0,1
+Operating income (loss),us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,1388000000.0,471000000.0,1
+Other income (expense) – net (Note 19),us-gaap_OtherNonoperatingIncomeExpense,NonoperatingIncomeExpense,795000000.0,1372000000.0,1
+Income (loss) before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,2828000000.0,2498000000.0,1
+Provision (benefit) for income taxes (Note 15),us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,-2051000000.0,939000000.0,1
+Net income (loss) attributable to GE Vernova,us-gaap_NetIncomeLoss,NetIncome,4884000000.0,1552000000.0,1
+Net income (loss),us-gaap_ProfitLoss,ProfitLoss,4879000000.0,1559000000.0,1
+Net loss (income) attributable to noncontrolling interests,us-gaap_NetIncomeLossAttributableToNoncontrollingInterest,MinorityInterestIncomeExpense,-4000000.0,7000000.0,-1
+Basic (in dollars per share),us-gaap_EarningsPerShareBasic,,17.92,5.65,1
+Diluted (in dollars per share),us-gaap_EarningsPerShareDiluted,,17.69,5.58,1
+Basic (in shares),us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,272000000.0,275000000.0,1
+Diluted (in shares),us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,276000000.0,278000000.0,1

@@ -1,0 +1,20 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,2018-12-31,preferred_sign
+Revenue,ifrs-full_Revenue,Revenue,17186000000.0,15673000000.0,13247000000.0,11727000000.0,9668000000.0,7880000000.0,6764000000.0,5259000000.0,1
+Sales and marketing,ifrs-full_SalesAndMarketingExpense,,1426000000.0,1392000000.0,1533000000.0,1572000000.0,1135000000.0,1029000000.0,826000000.0,620000000.0,1
+General and administrative,ifrs-full_GeneralAndAdministrativeExpense,,479000000.0,481000000.0,585000000.0,626000000.0,450000000.0,442000000.0,354000000.0,283000000.0,1
+Total operating expense,ifrs-full_OperatingExpense,TotalOperatingExpenses,3298000000.0,3359000000.0,3843000000.0,3585000000.0,2497000000.0,2308000000.0,1795000000.0,1396000000.0,1
+Finance income/(costs) - net,ifrs-full_FinanceIncomeCost,,26000000.0,-24000000.0,-59000000.0,289000000.0,155000000.0,-416000000.0,-58000000.0,-130000000.0,1
+Cost of revenue,ifrs-full_CostOfSales,CostOfGoodsAndServicesSold,11690000000.0,10949000000.0,9850000000.0,8801000000.0,7077000000.0,5865000000.0,5042000000.0,3906000000.0,1
+Gross profit,ifrs-full_GrossProfit,GrossProfit,5496000000.0,4724000000.0,3397000000.0,2926000000.0,2591000000.0,2015000000.0,1722000000.0,1353000000.0,1
+Basic (in shares),ifrs-full_WeightedAverageShares,SharesAverage,205412951.0,200622518.0,194732304.0,192934862.0,191298397.0,187583307.0,180960579.0,177154405.0,1
+Diluted (in shares),ifrs-full_AdjustedWeightedAverageShares,SharesFullyDilutedAverage,210509173.0,206990369.0,194732304.0,195846362.0,193943455.0,187583307.0,180960579.0,181210292.0,1
+Research and development,ifrs-full_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,1393000000.0,1486000000.0,1725000000.0,1387000000.0,912000000.0,837000000.0,615000000.0,493000000.0,1
+Operating income/(loss),ifrs-full_ProfitLossFromOperatingActivities,OperatingIncomeLoss,2198000000.0,1365000000.0,-446000000.0,-659000000.0,94000000.0,-293000000.0,-73000000.0,-43000000.0,1
+Share in losses of associate,ifrs-full_ShareOfProfitLossOfAssociatesAccountedForUsingEquityMethod,EquityMethodInvestmentIncome,,,,,,0.0,0.0,-1000000.0,1
+Finance income,ifrs-full_FinanceIncome,InterestIncome,292000000.0,328000000.0,161000000.0,421000000.0,246000000.0,94000000.0,275000000.0,455000000.0,1
+Finance costs,ifrs-full_FinanceCosts,InterestExpense,266000000.0,352000000.0,220000000.0,132000000.0,91000000.0,510000000.0,333000000.0,584000000.0,-1
+Income/(loss) before tax,ifrs-full_ProfitLossBeforeTax,PretaxIncomeLoss,2224000000.0,1341000000.0,-505000000.0,-370000000.0,249000000.0,-709000000.0,-131000000.0,-173000000.0,1
+Income tax expense,ifrs-full_IncomeTaxExpenseContinuingOperations,IncomeTaxes,12000000.0,203000000.0,27000000.0,60000000.0,283000000.0,-128000000.0,55000000.0,-95000000.0,1
+Net income/(loss) attributable to owners of the parent,ifrs-full_ProfitLossAttributableToOwnersOfParent,NetIncome,2212000000.0,1138000000.0,-532000000.0,-430000000.0,-34000000.0,-581000000.0,-186000000.0,-78000000.0,1
+Basic (euro per share),ifrs-full_BasicEarningsLossPerShare,EarningsPerShareBasic,10.77,5.67,-2.73,-2.23,-0.18,-3.1,-1.03,-0.44,1
+Diluted (euro per share),ifrs-full_DilutedEarningsLossPerShare,EarningsPerShareDiluted,10.51,5.5,-2.73,-2.93,-1.03,-3.1,-1.03,-0.51,1

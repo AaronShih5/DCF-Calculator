@@ -1,0 +1,47 @@
+label,concept,standard_concept,2026-01-31,2025-01-31,2024-01-31,2023-01-31,2022-01-31,2021-01-31,2020-01-31,2019-01-31,preferred_sign
+Cash and cash equivalents,us-gaap_CashAndCashEquivalentsAtCarryingValue,CashAndMarketableSecurities,602442000.0,648623000.0,797060000.0,721895000.0,509059000.0,566055000.0,241203000.0,517811000.0,1
+Accounts payable,us-gaap_AccountsPayableCurrent,TradePayables,17419000.0,30697000.0,19029000.0,24393000.0,52804000.0,37367000.0,28144000.0,19590000.0,1
+"Property and equipment, net",us-gaap_PropertyPlantAndEquipmentNet,PlantPropertyEquipmentNet,361808000.0,299370000.0,245173000.0,199892000.0,184664000.0,165039000.0,128293000.0,75832000.0,1
+Goodwill,us-gaap_Goodwill,Goodwill,458446000.0,454477000.0,353138000.0,353619000.0,355058000.0,350151000.0,194882000.0,195225000.0,1
+"Intangible assets, net",us-gaap_FiniteLivedIntangibleAssetsNet,IntangibleAssets,61394000.0,76388000.0,50905000.0,70280000.0,98816000.0,121828000.0,56500000.0,74203000.0,1
+"Accounts receivable, net of allowance for doubtful accounts of $9,916 and $8,828 as of January 31, 2026 and 2025",us-gaap_AccountsReceivableNetCurrent,TradeReceivables,516429000.0,429582000.0,439299000.0,516914000.0,440950000.0,323570000.0,237841000.0,174548000.0,1
+Total current assets,us-gaap_AssetsCurrent,CurrentAssetsTotal,1490838000.0,1489261000.0,1567667000.0,1631004000.0,1319596000.0,1162348000.0,943890000.0,984521000.0,1
+Accrued expenses and other current liabilities,us-gaap_AccruedLiabilitiesAndOtherLiabilities,OtherOperatingCurrentLiabilities,,,,100987000.0,91377000.0,66566000.0,54344000.0,,1
+Accrued expenses and other current liabilities,us-gaap_AccruedLiabilitiesCurrent,OtherOperatingCurrentLiabilities,113358000.0,99579000.0,104037000.0,,,,,21755000.0,1
+Total current liabilities,us-gaap_LiabilitiesCurrent,CurrentLiabilitiesTotal,2039408000.0,1831910000.0,1660621000.0,2208322000.0,1371639000.0,1093173000.0,693965000.0,516313000.0,1
+Total liabilities,us-gaap_Liabilities,Liabilities,2311730000.0,2010013000.0,1841551000.0,2395433000.0,2265762000.0,2007380000.0,1344811000.0,1001055000.0,1
+Deferred tax liability—noncurrent,us-gaap_DeferredIncomeTaxLiabilitiesNet,DeferredTaxCurrentLiabilities,21507000.0,20596000.0,16795000.0,10723000.0,9316000.0,6464000.0,4920000.0,4207000.0,1
+Accrued compensation,us-gaap_EmployeeRelatedLiabilitiesCurrent,AccruedCompensation,260840000.0,227115000.0,195266000.0,163133000.0,160163000.0,156158000.0,83189000.0,77553000.0,1
+Contract liabilities—current,us-gaap_ContractWithCustomerLiabilityCurrent,OtherOperatingCurrentLiabilities,1631168000.0,1455442000.0,1320059000.0,1172867000.0,1029891000.0,779642000.0,507560000.0,381060000.0,1
+Operating lease liabilities—current,us-gaap_OperatingLeaseLiabilityCurrent,OperatingLeaseCurrentDebtEquivalent,16623000.0,19077000.0,22230000.0,24055000.0,37404000.0,32971000.0,20728000.0,,1
+Contract liabilities—noncurrent,us-gaap_ContractWithCustomerLiabilityNoncurrent,ContractLiabilities,29956000.0,21523000.0,21980000.0,16925000.0,16725000.0,16492000.0,11478000.0,7712000.0,1
+Operating lease liabilities—noncurrent,us-gaap_OperatingLeaseLiabilityNoncurrent,OperatingLeaseNonCurrentDebtEquivalent,168496000.0,105350000.0,120823000.0,141348000.0,126340000.0,165704000.0,162432000.0,,1
+Other liabilities—noncurrent,us-gaap_OtherLiabilitiesNoncurrent,OtherNonOperatingNonCurrentLiabilities,52363000.0,30634000.0,21332000.0,18115000.0,23255000.0,32328000.0,6695000.0,9696000.0,1
+Commitments and contingencies (Note 10),us-gaap_CommitmentsAndContingencies,,,,,,,,,,1
+Deferred rent—current,us-gaap_DeferredRentCreditCurrent,OtherOperatingCurrentLiabilities,,,,,,,0.0,2452000.0,1
+Total assets,us-gaap_Assets,Assets,4229550000.0,4012705000.0,2971290000.0,3012720000.0,2541265000.0,2336507000.0,1891138000.0,1615417000.0,1
+Investments—current,us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterestCurrent,CashAndMarketableSecurities,264084000.0,314924000.0,248402000.0,,,,,,1
+Contract assets—current,us-gaap_ContractWithCustomerAssetNetCurrent,OtherOperatingCurrentAssets,10782000.0,13764000.0,15922000.0,12437000.0,12588000.0,16883000.0,12502000.0,10616000.0,1
+Prepaid expenses and other current assets,us-gaap_PrepaidExpenseAndOtherAssetsCurrent,OtherNonOperatingCurrentAssets,97101000.0,82368000.0,66984000.0,69987000.0,63236000.0,48390000.0,37125000.0,29976000.0,1
+Investments—noncurrent,us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterestNoncurrent,OtherNonOperatingNonCurrentAssets,208393000.0,134105000.0,121977000.0,,,,,,1
+Operating lease right-of-use assets,us-gaap_OperatingLeaseRightOfUseAsset,OperatingLeaseRightOfUseAsset,165578000.0,109630000.0,123188000.0,141493000.0,126021000.0,159352000.0,149833000.0,,1
+Deferred contract acquisition costs—noncurrent,us-gaap_CapitalizedContractCostNetNoncurrent,OtherOperatingNonCurrentAssets,474628000.0,467201000.0,409627000.0,350899000.0,311835000.0,260130000.0,153333000.0,112583000.0,1
+Deferred tax assets—noncurrent,us-gaap_DeferredIncomeTaxAssetsNet,DeferredTaxNoncurrentAssets,835245000.0,840470000.0,,,,,,,1
+Other assets—noncurrent,us-gaap_OtherAssetsNoncurrent,OtherNonOperatingNonCurrentAssets,173220000.0,141803000.0,99615000.0,79484000.0,50337000.0,24942000.0,24678000.0,8833000.0,1
+"Preferred stock, $0.0001 par value; 10,000 shares authorized, 0 shares issued and outstanding as of January 31, 2026 and 2025",us-gaap_PreferredStockValue,PreferredStock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+"Common stock, $0.0001 par value; 500,000 shares authorized, 197,765 shares issued and outstanding as of January 31, 2026; 500,000 shares authorized, 202,507 shares issued, 202,477 shares outstanding as of January 31, 2025",us-gaap_CommonStockValue,CommonEquity,20000.0,20000.0,21000.0,20000.0,20000.0,19000.0,18000.0,17000.0,1
+"Treasury stock, at cost: 0 shares as of January 31, 2026; 30 shares as of January 31, 2025",us-gaap_TreasuryStockCommonValue,,0.0,2871000.0,2164000.0,1785000.0,,,,,-1
+Accumulated deficit,us-gaap_RetainedEarningsAccumulatedDeficit,RetainedEarnings,-1856483000.0,-1287323000.0,-1670219000.0,-1598684000.0,-1438189000.0,-1380452000.0,-1137185000.0,-928778000.0,1
+Restricted cash,us-gaap_RestrictedCashCurrent,RestrictedCashCurrent,,,,,,,280000.0,367000.0,1
+Total liabilities and equity,us-gaap_LiabilitiesAndStockholdersEquity,LiabilitiesAndEquity,4229550000.0,4012705000.0,2971290000.0,3012720000.0,2541265000.0,2336507000.0,1891138000.0,1615417000.0,1
+Deferred rent—noncurrent,us-gaap_DeferredRentCreditNoncurrent,OtherOperatingNonCurrentLiabilities,,,,,,,0.0,24195000.0,1
+Other liabilities—current,us-gaap_OtherLiabilitiesCurrent,OtherNonOperatingCurrentLiabilities,,,,,,,,13903000.0,1
+Additional paid-in capital,us-gaap_AdditionalPaidInCapital,AdditionalPaidInCapital,3777995000.0,3321242000.0,2821461000.0,2240732000.0,1720013000.0,1702254000.0,1685167000.0,1545088000.0,1
+Accumulated other comprehensive loss,us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,AccumulatedOtherComprehensiveIncome,-3712000.0,-28376000.0,-19360000.0,-22996000.0,-4809000.0,4964000.0,-1673000.0,-1965000.0,1
+Total stockholders’ equity,us-gaap_StockholdersEquity,AllEquityBalance,1917820000.0,2002692000.0,1129739000.0,617287000.0,275503000.0,325737000.0,546327000.0,614362000.0,1
+Investments—noncurrent,us-gaap_AvailableForSaleSecuritiesDebtSecuritiesNoncurrent,LongtermInvestments,,,,186049000.0,94938000.0,92717000.0,239729000.0,164220000.0,1
+Convertible senior notes (Note 8),us-gaap_TemporaryEquityCarryingAmountAttributableToParent,TemporaryAndMezzanineFinancing,,,,,0.0,3390000.0,,0.0,1
+"Treasury stock, at cost: 7 shares as of January 31, 2022; 5 shares as of January 31, 2021",us-gaap_TreasuryStockValue,TreasuryShares,,,,,1532000.0,1048000.0,,,-1
+Investments—current,us-gaap_AvailableForSaleSecuritiesDebtSecuritiesCurrent,ShortTermInvestments,,,,309771000.0,293763000.0,207450000.0,414939000.0,251203000.0,1
+Convertible senior notes—current,us-gaap_ConvertibleDebtCurrent,ShortTermDebt,,,0.0,722887000.0,0.0,20469000.0,,,1
+"Convertible senior notes, net—noncurrent",us-gaap_ConvertibleDebtNoncurrent,ConvertibleDebtNonCurrent,,,,0.0,718487000.0,693219000.0,465321000.0,438932000.0,1

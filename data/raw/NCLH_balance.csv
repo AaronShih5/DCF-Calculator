@@ -1,0 +1,28 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,preferred_sign
+Cash and cash equivalents,us-gaap_CashAndCashEquivalentsAtCarryingValue,CashAndMarketableSecurities,209893000.0,190765000.0,402415000.0,946987000.0,1506647000.0,3300482000.0,252876000.0,1
+Inventories,us-gaap_InventoryNet,Inventories,138181000.0,149718000.0,157646000.0,148717000.0,118205000.0,82381000.0,95427000.0,1
+Short-term investments,us-gaap_ShortTermInvestments,ShortTermInvestments,,,,,240000000.0,,,1
+Accounts payable,us-gaap_AccountsPayableCurrent,TradePayables,169655000.0,171106000.0,174338000.0,228742000.0,233172000.0,83136000.0,100777000.0,1
+"Property and equipment, net",us-gaap_PropertyPlantAndEquipmentNet,PlantPropertyEquipmentNet,19068807000.0,16810650000.0,16433292000.0,14516366000.0,13528806000.0,13411226000.0,13135337000.0,1
+Goodwill,us-gaap_Goodwill,Goodwill,135764000.0,135764000.0,98134000.0,98134000.0,98134000.0,98134000.0,1388931000.0,1
+"Accounts receivable, net",us-gaap_AccountsReceivableNetCurrent,TradeReceivables,291659000.0,221412000.0,280271000.0,326272000.0,1167473000.0,20578000.0,75109000.0,1
+Other long-term assets,us-gaap_OtherAssetsNoncurrent,OtherNonOperatingNonCurrentAssets,1697764000.0,1512768000.0,1147891000.0,1569800000.0,1300804000.0,831888000.0,612661000.0,1
+Total current assets,us-gaap_AssetsCurrent,CurrentAssetsTotal,1138541000.0,1010104000.0,1313148000.0,1872869000.0,3301568000.0,3557544000.0,730145000.0,1
+Trade names,us-gaap_IntangibleAssetsNetExcludingGoodwill,IntangibleAssets,500525000.0,500525000.0,500525000.0,500525000.0,500525000.0,500525000.0,817525000.0,1
+Current portion of long-term debt,us-gaap_LongTermDebtAndCapitalLeaseObligationsCurrent,CurrentPortionOfLongTermDebt,875899000.0,1323769000.0,1744778000.0,991128000.0,876890000.0,124885000.0,746358000.0,1
+Total current liabilities,us-gaap_LiabilitiesCurrent,CurrentLiabilitiesTotal,5452577000.0,5780865000.0,6038701000.0,5054851000.0,3730432000.0,1913903000.0,3584390000.0,1
+Total liabilities,us-gaap_Liabilities,Liabilities,20331513000.0,18544372000.0,19192183000.0,18489103000.0,16297187000.0,14045212000.0,10169020000.0,1
+Long-term debt,us-gaap_LongTermDebtAndCapitalLeaseObligations,LongTermDebt,13730277000.0,11776721000.0,12314147000.0,12630402000.0,11569700000.0,11681234000.0,6055335000.0,1
+Other long-term liabilities,us-gaap_OtherLiabilitiesNoncurrent,OtherNonOperatingNonCurrentLiabilities,1148659000.0,986786000.0,839335000.0,803850000.0,997055000.0,450075000.0,529295000.0,1
+Accrued expenses and other liabilities,nclh_AccruedLiabilitiesAndOtherLiabilitiesCurrent,,1206430000.0,1180026000.0,1058919000.0,1318460000.0,1059034000.0,596056000.0,782275000.0,1
+Advance ticket sales,us-gaap_ContractWithCustomerLiabilityCurrent,OtherOperatingCurrentLiabilities,3200593000.0,3105964000.0,3060666000.0,2516521000.0,1561336000.0,1109826000.0,1954980000.0,1
+Commitments and contingencies (Note 13),us-gaap_CommitmentsAndContingencies,,,,,,,,,1
+Total assets,us-gaap_Assets,Assets,22541401000.0,19969811000.0,19492990000.0,18557694000.0,18729837000.0,18399317000.0,16684599000.0,1
+Prepaid expenses and other assets,us-gaap_PrepaidExpenseAndOtherAssetsCurrent,OtherNonOperatingCurrentAssets,498808000.0,448209000.0,472816000.0,450893000.0,269243000.0,154103000.0,306733000.0,1
+"Ordinary shares, $0.001 par value; 980,000,000 shares authorized; 455,257,489 shares issued and outstanding at December 31, 2025 and 439,861,281 shares issued and outstanding at December 31, 2024",us-gaap_CommonStockValue,CommonEquity,455000.0,440000.0,425000.0,421000.0,417000.0,316000.0,237000.0,1
+Additional paid-in capital,us-gaap_AdditionalPaidInCapitalCommonStock,AdditionalPaidInCapital,8227432000.0,7921918000.0,7708957000.0,7611564000.0,7513725000.0,4889355000.0,4235690000.0,1
+Accumulated deficit,us-gaap_RetainedEarningsAccumulatedDeficit,RetainedEarnings,-5566634000.0,-5989880000.0,-6900137000.0,-7066315000.0,-4796406000.0,-295449000.0,3829068000.0,1
+Accumulated other comprehensive income (loss),us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,AccumulatedOtherComprehensiveIncome,-451365000.0,-507039000.0,-508438000.0,-477079000.0,-285086000.0,-240117000.0,-295490000.0,1
+Total shareholders' equity,us-gaap_StockholdersEquity,AllEquityBalance,2209888000.0,1425439000.0,300807000.0,68591000.0,2432650000.0,4354105000.0,6515579000.0,1
+Total liabilities and shareholders' equity,us-gaap_LiabilitiesAndStockholdersEquity,LiabilitiesAndEquity,22541401000.0,19969811000.0,19492990000.0,18557694000.0,18729837000.0,18399317000.0,16684599000.0,1
+"Treasury shares (0 and 24,450,859 ordinary shares at December 31, 2020 and December 31, 2019, respectively, at cost)",us-gaap_TreasuryStockValue,TreasuryShares,,,,,,,1253926000.0,-1

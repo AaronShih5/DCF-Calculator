@@ -1,0 +1,52 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,preferred_sign
+"Cash paid for income taxes, net of refunds",us-gaap_IncomeTaxesPaid,,,,,68000000.0,17291000.0,1
+Cash paid for interest,us-gaap_InterestPaidNet,InterestExpense,,,,8000000.0,49892000.0,1
+"Acquisitions, net of cash acquired",us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,AcquisitionsNet,,,,,0.0,-1
+Amortization of debt discount and debt issuance costs,us-gaap_AmortizationOfFinancingCostsAndDiscounts,InterestExpense,,,,,8444000.0,1
+Change in funds payable and amounts payable to customers,us-gaap_IncreaseDecreaseInClientFundsHeld,,,,,,-1625838000.0,-1
+Net income,us-gaap_NetIncomeLoss,NetIncome,2511000000.0,2648000000.0,4792000000.0,1893000000.0,-352034000.0,1
+Stock-based compensation expense,us-gaap_ShareBasedCompensation,StockBasedCompensationExpense,1592000000.0,1407000000.0,1120000000.0,930000000.0,898830000.0,1
+Deferred income taxes,us-gaap_DeferredIncomeTaxesAndTaxCredits,DeferredIncomeTaxCF,376000000.0,433000000.0,-2875000000.0,,,1
+"Other, net",us-gaap_OtherOperatingActivitiesCashFlowStatement,NetCashFromOperatingActivities,273000000.0,32000000.0,83000000.0,8000000.0,12207000.0,1
+Prepaids and other assets,us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,,346000000.0,163000000.0,102000000.0,226000000.0,54351000.0,-1
+Accrued expenses and other liabilities,us-gaap_IncreaseDecreaseInAccruedLiabilities,ChangeInAccruedLiabilities,118000000.0,-104000000.0,580000000.0,273000000.0,165130000.0,1
+Unearned fees,us-gaap_IncreaseDecreaseInDeferredRevenue,ChangeInDeferredRevenue,122000000.0,200000000.0,242000000.0,280000000.0,495816000.0,1
+Net cash provided by operating activities,us-gaap_NetCashProvidedByUsedInOperatingActivities,NetCashFromOperatingActivities,4646000000.0,4518000000.0,3884000000.0,3430000000.0,2189694000.0,1
+Purchases of short-term investments,us-gaap_PaymentsToAcquireShortTermInvestments,InvestmentPurchases,3438000000.0,3146000000.0,3308000000.0,4072000000.0,4938188000.0,-1
+Sales and maturities of short-term investments,us-gaap_ProceedsFromSaleAndMaturityOfMarketableSecurities,InvestmentProceeds,2736000000.0,2605000000.0,2380000000.0,,,1
+"Other investing activities, net",us-gaap_PaymentsForProceedsFromOtherInvestingActivities,NetCashFromInvestingActivities,46000000.0,75000000.0,114000000.0,2000000.0,-500000.0,-1
+Net cash used in investing activities,us-gaap_NetCashProvidedByUsedInInvestingActivities,NetCashFromInvestingActivities,-748000000.0,-616000000.0,-1042000000.0,-28000000.0,-1351955000.0,1
+Share repurchases,us-gaap_PaymentsForRepurchaseOfCommonStock,EquityExpenseIncome(BuybackIssued),3789000000.0,3430000000.0,2252000000.0,1500000000.0,,-1
+Taxes paid related to tax on equity awards,us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,561000000.0,630000000.0,1224000000.0,607000000.0,53955000.0,-1
+Change in funds payable and amounts payable to customers,abnb_ChangeInFundsPayableAndAmountsPayableToCustomers,,401000000.0,320000000.0,936000000.0,1330000000.0,,1
+Net cash used in financing activities,us-gaap_NetCashProvidedByUsedInFinancingActivities,NetCashFromFinancingActivities,-3827000000.0,-3572000000.0,-2430000000.0,-689000000.0,1431159000.0,1
+"Effect of exchange rate changes on cash, cash equivalents, and restricted cash",us-gaap_EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,ForeignExchangeEffectOnCash,655000000.0,-237000000.0,152000000.0,-337000000.0,-209861000.0,1
+"Net increase in cash, cash equivalents, and restricted cash",us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,NetChangeInCash,726000000.0,93000000.0,564000000.0,2376000000.0,2059037000.0,1
+"Loss on warrants, net",us-gaap_FairValueAdjustmentOfWarrants,NonoperatingIncomeExpense,,,0.0,0.0,291987000.0,1
+Impairment of long-lived assets,us-gaap_AssetImpairmentCharges,AssetImpairmentChargesIS,,0.0,0.0,91000000.0,112545000.0,1
+Impairment of investments,abnb_InvestmentImpairmentCharges,,,,,0.0,,1
+Deferred income taxes,us-gaap_DeferredIncomeTaxExpenseBenefit,IncomeTaxes,,,,-1000000.0,10935000.0,1
+Foreign exchange (gain) loss,us-gaap_ForeignCurrencyTransactionGainLossBeforeTax,ForeignCurrencyGainLoss,,,,-62000000.0,-24371000.0,-1
+Accounts payable,us-gaap_IncreaseDecreaseInAccountsPayable,,,,,20000000.0,39946000.0,1
+Operating lease liabilities,abnb_IncreaseDecreaseInOperatingLeaseLiabilities,,,,,-69000000.0,-33774000.0,1
+Operating lease right-of-use assets,abnb_IncreaseDecreaseInOperatingLeaseRightOfUseAssets,,,,,-41000000.0,-25156000.0,-1
+Depreciation and amortization,us-gaap_OtherDepreciationAndAmortization,DepreciationExpense,,65000000.0,44000000.0,81000000.0,138319000.0,1
+Principal repayment of long-term debt,us-gaap_RepaymentsOfLongTermDebt,DebtRepayments,,,0.0,0.0,1995000000.0,-1
+Purchases of property and equipment,us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,CapitalExpenses,,,,25000000.0,25322000.0,-1
+Sales of marketable securities,us-gaap_ProceedsFromSaleOfShortTermInvestments,InvestmentProceeds,,,,909000000.0,1584188000.0,1
+"Proceeds from issuance of convertible senior notes, net of issuance costs",us-gaap_ProceedsFromConvertibleDebt,DebtProceeds,,,0.0,0.0,1979166000.0,1
+"(Gain) loss on investments, net",us-gaap_GainLossOnSaleOfInvestments,NonoperatingIncomeExpense,,,,2000000.0,8253000.0,-1
+Maturities of marketable securities,us-gaap_ProceedsFromMaturitiesPrepaymentsAndCallsOfShorttermInvestments,ProceedsFromMaturitiesOfInvestments,,,,3162000000.0,2026867000.0,1
+"Proceeds from issuance of common stock upon initial public offering, net of underwriting discounts and offering costs",us-gaap_ProceedsFromIssuanceInitialPublicOffering,NetCashFromFinancingActivities,,,,0.0,0.0,1
+Loss from extinguishment of debt,us-gaap_GainsLossesOnExtinguishmentOfDebt,InterestExpense,,,0.0,0.0,-377248000.0,-1
+Proceeds from exercise of equity awards and employee stock purchase plan,us-gaap_ProceedsFromStockOptionsExercised,StockIssuanceProceeds,,,110000000.0,40000000.0,137572000.0,1
+Bad debt expense,us-gaap_ProvisionForDoubtfulAccounts,ProvisionForDoubtfulAccountsCF,,,,49000000.0,27285000.0,1
+Prepayment penalty on long-term debt,us-gaap_PaymentsOfDebtExtinguishmentCosts,NetCashFromFinancingActivities,,,0.0,0.0,212883000.0,-1
+Purchases of capped calls related to convertible senior notes,abnb_PaymentForCappedCallsRelatedToConvertibleSeniorNotes,,,,0.0,0.0,100200000.0,-1
+"Other financing activities, net",us-gaap_ProceedsFromPaymentsForOtherFinancingActivities,NetCashFromFinancingActivities,,,,0.0,0.0,1
+Proceeds from the issuance of common stock under employee stock purchase plan,us-gaap_ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlans,StockIssuanceProceeds,122000000.0,168000000.0,,48000000.0,50621000.0,1
+"Proceeds from issuance of long-term debt and warrants, net of issuance costs",abnb_ProceedsFromIssuanceOfLongTermDebtAndWarrantsNetOfIssuanceCosts,,,,,0.0,0.0,1
+Impairment of investments,us-gaap_EquitySecuritiesWithoutReadilyDeterminableFairValueImpairmentLossAnnualAmount,NonoperatingIncomeExpense,,,,,3081000.0,1
+"Noncash interest expense, net",abnb_InterestIncomeExpenseNetNoncash,,,,,,-6806000.0,-1
+Payments for equity investments in privately-held companies,abnb_PaymentsForEquityInvestmentsInPrivatelyHeldCompaniesIncludingEquityMethodAndCostMethodInvestments,,,,,,0.0,-1
+Common stock and stock awards issued for acquisitions,abnb_CommonStockAndStockAwardsIssuedForAcquisitions,,,,,,0.0,1

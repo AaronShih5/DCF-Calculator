@@ -1,0 +1,37 @@
+label,concept,standard_concept,2026-01-31,2025-01-31,2024-01-31,2023-01-31,2022-01-31,2021-01-31,preferred_sign
+Cash and cash equivalents,us-gaap_CashAndCashEquivalentsAtCarryingValue,CashAndMarketableSecurities,2828163000.0,2628798000.0,1762749000.0,939902000.0,1085729000.0,820177000.0,1
+Accounts payable,us-gaap_AccountsPayableCurrent,TradePayables,145559000.0,169767000.0,51721000.0,23672000.0,13441000.0,5647000.0,1
+"Property and equipment, net",us-gaap_PropertyPlantAndEquipmentNet,PlantPropertyEquipmentNet,248611000.0,296393000.0,247464000.0,160823000.0,105079000.0,68968000.0,1
+Goodwill,us-gaap_Goodwill,Goodwill,1194367000.0,1056559000.0,975906000.0,657370000.0,8449000.0,8449000.0,1
+"Intangible assets, net",us-gaap_IntangibleAssetsNetExcludingGoodwill,IntangibleAssets,246916000.0,278028000.0,331411000.0,186013000.0,37141000.0,16091000.0,1
+Long-term investments,us-gaap_AvailableForSaleSecuritiesDebtSecuritiesNoncurrent,LongtermInvestments,755013000.0,656476000.0,916307000.0,1073023000.0,1256207000.0,1165275000.0,1
+Short-term investments,us-gaap_AvailableForSaleSecuritiesDebtSecuritiesCurrent,ShortTermInvestments,1201523000.0,2008873000.0,2083499000.0,3067966000.0,2766364000.0,3087887000.0,1
+"Accounts receivable, net",us-gaap_AccountsReceivableNetCurrent,TradeReceivables,1303740000.0,922805000.0,926902000.0,715821000.0,545629000.0,294017000.0,1
+Total current assets,us-gaap_AssetsCurrent,CurrentAssetsTotal,5742612000.0,5869372000.0,5039264000.0,4984690000.0,4598643000.0,4300652000.0,1
+Other assets,us-gaap_OtherAssetsNoncurrent,OtherNonOperatingNonCurrentAssets,428320000.0,333704000.0,273810000.0,283851000.0,329306000.0,89322000.0,1
+Accrued expenses and other current liabilities,us-gaap_AccruedLiabilitiesCurrent,OtherOperatingCurrentLiabilities,879537000.0,515454000.0,446860000.0,269069000.0,200664000.0,125315000.0,1
+Total current liabilities,us-gaap_LiabilitiesCurrent,CurrentLiabilitiesTotal,4421691000.0,3301183000.0,2731230000.0,1993517000.0,1397093000.0,789264000.0,1
+Other liabilities,us-gaap_OtherLiabilitiesNoncurrent,OtherNonOperatingNonCurrentLiabilities,80746000.0,61264000.0,33120000.0,24370000.0,11184000.0,6923000.0,1
+"Operating lease liabilities, current",us-gaap_OperatingLeaseLiabilityCurrent,OperatingLeaseCurrentDebtEquivalent,49598000.0,35923000.0,33944000.0,27301000.0,25101000.0,19650000.0,1
+"Convertible senior notes, net",us-gaap_ConvertibleDebtNoncurrent,ConvertibleDebtNonCurrent,2279827000.0,2271529000.0,,,,,1
+"Operating lease liabilities, non-current",us-gaap_OperatingLeaseLiabilityNoncurrent,OperatingLeaseNonCurrentDebtEquivalent,411689000.0,377818000.0,254037000.0,224357000.0,181196000.0,184887000.0,1
+"Deferred revenue, non-current",us-gaap_ContractWithCustomerLiabilityNoncurrent,ContractLiabilities,14440000.0,15501000.0,14402000.0,11463000.0,11180000.0,4194000.0,1
+"Deferred revenue, current",us-gaap_ContractWithCustomerLiabilityCurrent,OtherOperatingCurrentLiabilities,3346997000.0,2580039000.0,2198705000.0,1673475000.0,1157887000.0,638652000.0,1
+Total liabilities,us-gaap_Liabilities,Liabilities,7208393000.0,6027295000.0,3032789000.0,2253707000.0,1600653000.0,985268000.0,1
+Total assets,us-gaap_Assets,Assets,9132495000.0,9033938000.0,8223383000.0,7722322000.0,6649698000.0,5921739000.0,1
+"Deferred commissions, current",us-gaap_CapitalizedContractCostNetCurrent,OtherOperatingCurrentAssets,214058000.0,97662000.0,86096000.0,67901000.0,51398000.0,32371000.0,1
+Prepaid expenses and other current assets,us-gaap_PrepaidExpenseAndOtherAssetsCurrent,OtherNonOperatingCurrentAssets,195128000.0,211234000.0,180018000.0,193100000.0,149523000.0,66200000.0,1
+Operating lease right-of-use assets,us-gaap_OperatingLeaseRightOfUseAsset,OperatingLeaseRightOfUseAsset,274897000.0,359439000.0,252128000.0,231266000.0,190356000.0,186818000.0,1
+"Deferred commissions, non-current",us-gaap_CapitalizedContractCostNetNoncurrent,OtherOperatingNonCurrentAssets,241759000.0,183967000.0,187093000.0,145286000.0,124517000.0,86164000.0,1
+Commitments and contingencies (Note 11),us-gaap_CommitmentsAndContingencies,,,,,,,,1
+"Preferred stock; $0.0001 par value per share; 200,000 shares authorized, zero shares issued and outstanding as of each of January 31, 2026 and 2025",us-gaap_PreferredStockValue,PreferredStock,0.0,0.0,0.0,0.0,0.0,0.0,1
+"Treasury stock, at cost; 399 shares and 436 shares held as of January 31, 2026 and 2025, respectively",us-gaap_TreasuryStockCommonValue,,54488000.0,59505000.0,67140000.0,,,,-1
+Accumulated deficit,us-gaap_RetainedEarningsAccumulatedDeficit,RetainedEarnings,-9494249000.0,-7293575000.0,-4075604000.0,-2716074000.0,-1919369000.0,-1239421000.0,1
+Noncontrolling interest,us-gaap_MinorityInterest,MinorityInterestBalance,0.0,6714000.0,10286000.0,12179000.0,,,1
+"Common stock; $0.0001 par value per share; 2,500,000 Class A shares authorized; 344,317 and 334,301 shares issued as of January 31, 2026 and 2025, respectively; 343,918 and 333,865 shares outstanding as of January 31, 2026 and 2025, respectively; zero and 185,461 Class B shares authorized as of January 31, 2026 and 2025, respectively, zero shares issued and outstanding as of each of January 31, 2026 and 2025(1)",us-gaap_CommonStockValue,CommonEquity,34000.0,34000.0,34000.0,32000.0,31000.0,28000.0,1
+Additional paid-in capital,us-gaap_AdditionalPaidInCapital,AdditionalPaidInCapital,11469468000.0,10355211000.0,9331238000.0,8210750000.0,6984669000.0,6175425000.0,1
+Accumulated other comprehensive income (loss),us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,AccumulatedOtherComprehensiveIncome,3337000.0,-2236000.0,-8220000.0,-38272000.0,-16286000.0,439000.0,1
+Total Snowflake Inc. stockholders’ equity,us-gaap_StockholdersEquity,AllEquityBalance,1924102000.0,2999929000.0,5180308000.0,5456436000.0,5049045000.0,4936471000.0,1
+Total stockholders’ equity,us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,AllEquityBalanceIncludingMinorityInterest,1924102000.0,3006643000.0,5190594000.0,5468615000.0,,,1
+Total liabilities and stockholders’ equity,us-gaap_LiabilitiesAndStockholdersEquity,LiabilitiesAndEquity,9132495000.0,9033938000.0,8223383000.0,7722322000.0,6649698000.0,5921739000.0,1
+"Redeemable convertible preferred stock; $0.0001 par value per share; zero and 169,921,272 shares authorized as of January 31, 2021 and 2020, respectively; zero and 169,921,272 shares issued and outstanding as of January 31, 2021 and 2020, respectively; aggregate liquidation preference of zero and $935,389 as of January 31, 2021 and 2020, respectively",us-gaap_TemporaryEquityCarryingAmountAttributableToParent,TemporaryAndMezzanineFinancing,,,,,,0.0,1

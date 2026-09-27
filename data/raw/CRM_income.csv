@@ -1,0 +1,35 @@
+label,concept,standard_concept,2026-01-31,2025-01-31,2024-01-31,2023-01-31,2022-01-31,2021-01-31,2020-01-31,2019-01-31,2018-01-31,2017-01-31,preferred_sign
+Total revenues,us-gaap_SalesRevenueServicesNet,Revenue,,,,,,,,,10480012000.0,8391984000.0,1
+Subscription and support,crm_CostOfRevenueSubscriptionAndSupport,,,,,,,,,,2033457000.0,1556353000.0,1
+Professional services and other,us-gaap_OtherCostOfServices,CostOfGoodsAndServicesSold,,,,,,,,,740065000.0,677686000.0,1
+Total revenues,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,41525000000.0,37895000000.0,34857000000.0,31352000000.0,26492000000.0,21252000000.0,17098000000.0,13282000000.0,,,1
+Restructuring,us-gaap_RestructuringCharges,RestructuringExpenseBenefit,586000000.0,461000000.0,988000000.0,828000000.0,,,,,,,1
+"Gains (losses) on strategic investments, net",us-gaap_GainLossOnInvestments,GainLossOnInvestmentsIS,1017000000.0,-121000000.0,-277000000.0,-239000000.0,1211000000.0,2170000000.0,,542000000.0,0.0,13697000.0,1
+Gain on sales of land and building improvements,us-gaap_GainLossOnSaleOfProperties,NonoperatingIncomeExpense,,,,,,,,,0.0,,1
+Gain on sales of land and building improvements,us-gaap_GainLossOnSaleOfPropertyPlantEquipment,GainLossOnDispositions,,,,,,,,,,0.0,1
+Total cost of revenues,us-gaap_CostOfGoodsAndServicesSold,CostOfGoodsAndServicesSold,9270000000.0,8643000000.0,8541000000.0,8360000000.0,7026000000.0,5438000000.0,4235000000.0,3451000000.0,,,1
+Gross profit,us-gaap_GrossProfit,GrossProfit,32255000000.0,29252000000.0,26316000000.0,22992000000.0,19466000000.0,15814000000.0,12863000000.0,9831000000.0,7706490000.0,6157945000.0,1
+Total cost of revenues,us-gaap_CostOfServices,CostOfGoodsAndServicesSold,,,,,,,,,2773522000.0,2234039000.0,1
+Operating lease termination resulting from purchase of 50 Fremont,us-gaap_GainLossOnContractTermination,NonoperatingIncomeExpense,,,,,,,,,0.0,0.0,-1
+Research and development,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,5993000000.0,5493000000.0,4906000000.0,5055000000.0,4465000000.0,3598000000.0,2766000000.0,1886000000.0,1553073000.0,1208127000.0,1
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,3000000000.0,2836000000.0,2534000000.0,2553000000.0,2598000000.0,2087000000.0,1704000000.0,1346000000.0,1088358000.0,967563000.0,1
+Sales and marketing,us-gaap_SellingAndMarketingExpense,SellingGeneralAndAdminExpenses,14345000000.0,13257000000.0,12877000000.0,13526000000.0,11855000000.0,9674000000.0,7930000000.0,6064000000.0,4829291000.0,3918027000.0,1
+Total operating expenses,us-gaap_OperatingExpenses,TotalOperatingExpenses,23924000000.0,22047000000.0,21305000000.0,21962000000.0,18918000000.0,15359000000.0,12566000000.0,9296000000.0,7470722000.0,6093717000.0,1
+Professional services and other,us-gaap_TechnologyServicesRevenue,TechnologyServicesRevenue,,,,,,,,,769474000.0,635779000.0,1
+Subscription and support,crm_SubscriptionAndSupportRevenue,,,,,,,,,,9710538000.0,7756205000.0,1
+Income from operations,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,8331000000.0,7205000000.0,5011000000.0,1030000000.0,548000000.0,455000000.0,297000000.0,535000000.0,235768000.0,64228000.0,1
+Interest expense,us-gaap_InterestExpense,InterestExpense,,,,,,,,154000000.0,86943000.0,88988000.0,-1
+Other income,us-gaap_OtherNonoperatingIncomeExpense,NonoperatingIncomeExpense,172000000.0,354000000.0,216000000.0,,,,-18000000.0,3000000.0,17435000.0,9072000.0,1
+Income before provision for income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,9520000000.0,7438000000.0,4950000000.0,660000000.0,1532000000.0,,,,,,1
+Provision for income taxes,us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,2063000000.0,1241000000.0,814000000.0,452000000.0,88000000.0,-1511000000.0,580000000.0,-127000000.0,74630000.0,-154249000.0,-1
+Net income,us-gaap_NetIncomeLoss,NetIncome,7457000000.0,6197000000.0,4136000000.0,208000000.0,1444000000.0,4072000000.0,126000000.0,1110000000.0,127478000.0,179632000.0,1
+Basic net income per share (in dollars per share),us-gaap_EarningsPerShareBasic,,7.85,6.44,4.25,0.21,1.51,4.48,0.15,1.48,0.18,0.26,1
+Diluted net income per share (in dollars per share),us-gaap_EarningsPerShareDiluted,,7.8,6.36,4.2,0.21,1.48,4.38,0.15,1.43,0.17,0.26,1
+Shares used in computing basic net income per share (in shares),us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,950000000.0,962000000.0,974000000.0,992000000.0,955000000.0,908000000.0,829000000.0,751000000.0,714919000.0,687797000.0,1
+Shares used in computing diluted net income per share (in shares),us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,956000000.0,974000000.0,984000000.0,997000000.0,974000000.0,930000000.0,850000000.0,775000000.0,734598000.0,700217000.0,1
+"Gains on strategic investments, net",us-gaap_EquitySecuritiesFvNiGainLoss,NonoperatingIncomeExpense,,,,,,,427000000.0,,,,1
+Other expense,us-gaap_OtherNonoperatingExpense,NonoperatingIncomeExpense,,,,131000000.0,227000000.0,64000000.0,,,,,-1
+Income before benefit from (provision for) income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,PretaxIncomeLoss,,,,,,2561000000.0,706000000.0,983000000.0,202108000.0,25383000.0,1
+Investment income,us-gaap_InvestmentIncomeNet,NonoperatingIncomeExpense,,,,,,,,57000000.0,35848000.0,27374000.0,1
+Loss on settlement of Salesforce.org reseller agreement,crm_FairValueAdjustmentLossOnRemainingPerformanceObligationsOfAgreements,,,,,,0.0,0.0,,,,,1
+Loss on settlement of Salesforce.org reseller agreement (Note 7),crm_FairValueAdjustmentLossOnRemainingPerformanceObligationsofAgreements,,,,,,,,166000000.0,,,,1

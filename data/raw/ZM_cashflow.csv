@@ -1,0 +1,71 @@
+label,concept,standard_concept,2026-01-31,2025-01-31,2024-01-31,2023-01-31,2022-01-31,2021-01-31,2020-01-31,preferred_sign
+"Cash paid for income taxes, net",us-gaap_IncomeTaxesPaidNet,IncomeTaxes,,395401000.0,348129000.0,309084000.0,38979000.0,3181000.0,1070000.0,1
+Vesting of early exercised stock options,zm_ShareBasedCompensationArrangementByShareBasedPaymentAwardVestingInPeriodEarlyExercises,,,0.0,0.0,238000.0,407000.0,558000.0,725000.0,1
+Other,us-gaap_ProceedsFromPaymentsForOtherFinancingActivities,NetCashFromFinancingActivities,,,0.0,0.0,337000.0,,,1
+Amortization of deferred contract acquisition costs,us-gaap_CapitalizedContractCostAmortization,,,,,,177283000.0,104306000.0,37101000.0,1
+Non-cash operating lease cost,zm_NoncashOperatingLeaseCost,,,,,,18387000.0,10887000.0,6885000.0,1
+Charitable donation of common stock,zm_DonationOfCommonStockToCharitableFoundation,,,,,0.0,0.0,23312000.0,,1
+Deferred contract acquisition costs,zm_IncreaseDecreaseInCapitalizedContractCosts,,,,,298629000.0,247371000.0,307068000.0,72714000.0,-1
+Purchases of strategic investments,us-gaap_PaymentsToAcquireOtherInvestments,InvestmentPurchases,,,,69050000.0,305149000.0,,,-1
+Other,us-gaap_PaymentsForProceedsFromOtherInvestingActivities,NetCashFromInvestingActivities,,,,-300000.0,0.0,-1659000.0,,-1
+"Proceeds from initial public offering and private placement, net of underwriting discounts and commissions and other offering costs",zm_ProceedsFromPaymentsForIssuanceInitialPublicOfferingAndPrivatePlacementNet,,,,,,0.0,0.0,,1
+"Proceeds from follow-on public offering, net of underwriting discounts and commissions and other offering costs",zm_ProceedsFromIssuanceFollowOnPublicOffering,,,,,0.0,0.0,1979206000.0,,1
+Increase (decrease) of valuation allowance,us-gaap_ValuationAllowanceDeferredTaxAssetChangeInAmount,IncomeTaxes,,,,,327957000.0,,,-1
+Purchase of property and equipment under capital lease,us-gaap_CapitalLeaseObligationsIncurred,NetCashFromFinancingActivities,,,,,,,0.0,1
+Proceeds from issuance of common stock for employee stock purchase plan,us-gaap_ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlans,StockIssuanceProceeds,,,,,59331000.0,38433000.0,15482000.0,1
+Conversion of convertible preferred stock to Class B common stock upon initial public offering,us-gaap_ConversionOfStockAmountConverted1,NetCashFromOperatingActivities,,,,,0.0,0.0,159552000.0,1
+Conversion of debt to Class A common stock,us-gaap_DebtConversionConvertedInstrumentAmount1,NetCashFromOperatingActivities,,,,,0.0,0.0,15344000.0,1
+Principal payments on capital lease obligations,us-gaap_FinanceLeasePrincipalPayments,FinanceLeasePayments,,,,,,0.0,0.0,-1
+Purchase of equity investment,zm_PaymentsToAcquireEquitySecuritiesWithoutReadilyDeterminableFairValue,,,,,,,8000000.0,3000000.0,-1
+Purchase of convertible promissory note,zm_PurchaseOfConvertiblePromissoryNote,,,,,,,5000000.0,,-1
+Proceeds from issuance of convertible promissory notes and derivatives,us-gaap_ProceedsFromConvertibleDebt,DebtProceeds,,,,,,0.0,0.0,1
+"Proceeds from employee equity transactions (remitted) to be remitted to employees and tax authorities, net",zm_ProceedsFromEmployeeStockSalesToBeRemitted,,,,,,-40004000.0,4088000.0,48547000.0,1
+"Deferred offering costs, accrued but not paid",zm_DeferredOfferingCostsIncurredButNotYetPaid,,,,,,,0.0,0.0,1
+Maturities of marketable securities,us-gaap_ProceedsFromSaleAndMaturityOfAvailableForSaleSecurities,,,,,,,,343554000.0,1
+Repurchase of convertible preferred stock,us-gaap_PaymentsForRepurchaseOfConvertiblePreferredStock,,,,,,,,0.0,-1
+"Proceeds from initial public offering and private placement, net of underwriting discounts and commissions and other offering costs",us-gaap_ProceedsFromIssuanceOfCommonStock,EquityExpenseIncome(BuybackIssued),,,,,,,542492000.0,1
+"(Gains) losses on strategic investments, net",us-gaap_EquitySecuritiesWithoutReadilyDeterminableFairValueDownwardPriceAdjustmentAnnualAmount,NonoperatingIncomeExpense,,,,37571000.0,,,,1
+"(Gains) losses on strategic investments, net",us-gaap_EquitySecuritiesWithoutReadilyDeterminableFairValueUpwardPriceAdjustmentAnnualAmount,NonoperatingIncomeExpense,,,109770000.0,,43761000.0,,,-1
+Net income,us-gaap_NetIncomeLoss,NetIncome,1900148000.0,1010238000.0,637462000.0,103711000.0,1375639000.0,672316000.0,25305000.0,1
+Stock-based compensation expense,us-gaap_ShareBasedCompensation,StockBasedCompensationExpense,760776000.0,931309000.0,1057161000.0,1285752000.0,477287000.0,275818000.0,73109000.0,1
+Deferred income taxes,zm_DeferredIncomeTaxExpenseBenefitIncludingChangesInValuationAllowances,,105035000.0,-90551000.0,-116679000.0,-160961000.0,,,,1
+Amortization of deferred contract acquisition costs,us-gaap_AmortizationOfAcquisitionCosts,RestructuringExpenseBenefit,283382000.0,282103000.0,270701000.0,259368000.0,,,,1
+"Gains on strategic investments, net",us-gaap_GainLossOnInvestments,GainLossOnInvestmentsIS,969822000.0,177142000.0,,,,,,-1
+Depreciation and amortization,us-gaap_DepreciationDepletionAndAmortization,DepreciationExpense,132831000.0,122632000.0,104451000.0,82321000.0,48188000.0,28857000.0,16449000.0,1
+Provision for accounts receivable allowances,us-gaap_ProvisionForDoubtfulAccounts,ProvisionForDoubtfulAccountsCF,17351000.0,20022000.0,35244000.0,50285000.0,36747000.0,32007000.0,6370000.0,1
+Unrealized foreign exchange (gains) losses,us-gaap_ForeignCurrencyTransactionGainLossUnrealizedAfterTax,,11405000.0,-17165000.0,-12259000.0,,,,,-1
+Non-cash operating lease cost,us-gaap_OperatingLeaseRightOfUseAssetAmortizationExpense,NetCashFromOperatingActivities,24778000.0,24066000.0,21066000.0,28933000.0,,,,1
+Charitable donation of common stock,us-gaap_NoncashContributionExpense,,20904000.0,,,,,,,1
+Amortization of discount/premium on marketable securities,us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,NonoperatingIncomeExpense,28910000.0,71636000.0,50770000.0,-1206000.0,,,,-1
+Other,us-gaap_OtherOperatingActivitiesCashFlowStatement,NetCashFromOperatingActivities,22307000.0,4048000.0,-7670000.0,14913000.0,4591000.0,3822000.0,-1068000.0,1
+Accounts receivable,us-gaap_IncreaseDecreaseInAccountsReceivable,,-2823000.0,-26640000.0,-53270000.0,231845000.0,159183000.0,219039000.0,64715000.0,-1
+Prepaid expenses and other assets,us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,,28821000.0,17114000.0,71247000.0,18066000.0,155934000.0,68521000.0,24805000.0,-1
+Deferred contract acquisition costs,zm_IncreaseDecreaseInDeferredContractAcquisitionCosts,,295949000.0,246727000.0,214657000.0,,,,,-1
+Accounts payable,us-gaap_IncreaseDecreaseInAccountsPayable,,-613000.0,-3133000.0,-4416000.0,11611000.0,-2218000.0,3481000.0,-2030000.0,1
+Accrued expenses and other liabilities,us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities,ChangeInAccruedLiabilities,19761000.0,62277000.0,51974000.0,20530000.0,101369000.0,251654000.0,51179000.0,1
+Deferred revenue,us-gaap_IncreaseDecreaseInContractWithCustomerLiability,ChangeInDeferredRevenue,63186000.0,79995000.0,-46719000.0,127401000.0,293887000.0,665724000.0,106286000.0,1
+"Operating lease liabilities, net",us-gaap_IncreaseDecreaseInOperatingLeaseLiability,NetCashFromOperatingActivities,-28714000.0,-28884000.0,-22824000.0,-23839000.0,,,,1
+Net cash provided by operating activities,us-gaap_NetCashProvidedByUsedInOperatingActivities,NetCashFromOperatingActivities,1989048000.0,1945308000.0,1598836000.0,1290262000.0,1605266000.0,1471177000.0,151892000.0,1
+Purchases of marketable securities,us-gaap_PaymentsToAcquireAvailableForSaleSecuritiesDebt,,4824598000.0,4622104000.0,4083968000.0,2849121000.0,4434749000.0,2056470000.0,800228000.0,-1
+Maturities of marketable securities,us-gaap_ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,InvestmentProceeds,4064393000.0,3610274000.0,3131419000.0,2835196000.0,1733043000.0,580795000.0,,1
+Sales of marketable securities,us-gaap_ProceedsFromSaleOfAvailableForSaleSecuritiesDebt,InvestmentProceeds,684371000.0,47482000.0,1191000.0,0.0,296867000.0,36897000.0,,1
+Purchases of property and equipment,us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,CapitalExpenses,64961000.0,136560000.0,126953000.0,103826000.0,132590000.0,79972000.0,38084000.0,-1
+Purchases of strategic investments,us-gaap_PaymentsToAcquireLongtermInvestments,InvestmentPurchases,98245000.0,,,,,,,-1
+Proceeds from sale of strategic investments,us-gaap_ProceedsFromSaleOfLongtermInvestments,InvestmentProceeds,80438000.0,,,,,,,1
+"Cash paid for acquisitions, net of cash acquired",us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,AcquisitionsNet,119796000.0,0.0,204918000.0,120553000.0,3501000.0,26486000.0,,-1
+Purchases of intangible assets,us-gaap_PaymentsToAcquireIntangibleAssets,PurchaseOfIntangibleAssets,500000.0,0.0,0.0,11268000.0,13018000.0,5843000.0,141000.0,-1
+Net cash used in investing activities,us-gaap_NetCashProvidedByUsedInInvestingActivities,NetCashFromInvestingActivities,-278898000.0,-1106024000.0,-1183689000.0,-318322000.0,-2859097000.0,-1562420000.0,-499468000.0,1
+"Cash paid for repurchases of common stock, including excise taxes",us-gaap_PaymentsForRepurchaseOfCommonStock,EquityExpenseIncome(BuybackIssued),1620691000.0,1093878000.0,0.0,1000003000.0,,,,-1
+Proceeds from issuance of common stock for employee stock purchase plan,us-gaap_ProceedsFromStockPlans,StockIssuanceProceeds,61206000.0,54008000.0,54097000.0,53710000.0,,,,1
+Proceeds from exercise of stock options,us-gaap_ProceedsFromStockOptionsExercised,StockIssuanceProceeds,2482000.0,4619000.0,10195000.0,8577000.0,14404000.0,28550000.0,9169000.0,1
+"Proceeds from employee equity transactions (remitted) to be remitted to employees and tax authorities, net",zm_ProceedsPaymentsForShareBasedPaymentArrangementNetOfTaxWithholding,,-523000.0,7174000.0,-4106000.0,774000.0,,,,1
+Taxes paid related to net share settlement of equity awards,us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,247832000.0,,,,,,,-1
+Net cash (used in) provided by financing activities,us-gaap_NetCashProvidedByUsedInFinancingActivities,NetCashFromFinancingActivities,-1805358000.0,-1028077000.0,60186000.0,-936942000.0,34068000.0,2050277000.0,615690000.0,1
+"Effect of exchange rate changes on cash, cash equivalents, and restricted cash",us-gaap_EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,ForeignExchangeEffectOnCash,17572000.0,-15170000.0,-10196000.0,-8108000.0,,,,1
+"Net (decrease) increase in cash, cash equivalents, and restricted cash",us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,NetChangeInCash,-77636000.0,-203963000.0,465137000.0,26890000.0,-1219763000.0,1959034000.0,268114000.0,1
+Purchase of equipment during the period included in accounts payable and accrued expenses,us-gaap_CapitalExpendituresIncurredButNotYetPaid,CapitalExpenses,15204000.0,20393000.0,16206000.0,11946000.0,13728000.0,34514000.0,1422000.0,1
+Proceeds from strategic investments,us-gaap_ProceedsFromSaleOfEquitySecuritiesFvNi,NetCashFromInvestingActivities,,13384000.0,170067000.0,,,,,1
+Purchases of strategic investments,us-gaap_PaymentsToAcquireEquitySecuritiesFvNi,InvestmentPurchases,,18500000.0,70527000.0,,,,,-1
+Amortization on marketable securities,zm_EquityMethodInvestmentRealizedGainLossOnRemeasurement,,,,,,-25316000.0,,,-1
+"Operating lease liabilities, net",zm_IncreaseDecreaseInOperatingLeaseLiabilities,,,,,,-17004000.0,-6379000.0,-5460000.0,1
+Loans to employees,zm_PaymentsForLoansToEmployees,,,,,,,,1569000.0,-1

@@ -1,0 +1,33 @@
+label,concept,standard_concept,2026-05-31,2025-05-31,2024-05-31,preferred_sign
+Total revenues,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,67357000000.0,57399000000.0,52961000000.0,1
+Cloud,orcl_CloudRevenues,,33989000000.0,,,1
+Software,orcl_SoftwareRevenues,,24541000000.0,,,1
+Cloud services and license support,orcl_CloudServicesAndLicenseSupportRevenue,,,44029000000.0,39383000000.0,1
+Cloud license and on-premise license,orcl_CloudLicenseAndOnPremiseLicenseRevenue,,,5201000000.0,5081000000.0,1
+Hardware,orcl_HardwareRevenues,,3084000000.0,2936000000.0,3066000000.0,1
+Services,orcl_SalesRevenueServicesNet1,,5743000000.0,5233000000.0,5431000000.0,1
+Cloud services and license support,orcl_CloudServicesAndLicenseSupportExpenses,,,11569000000.0,9427000000.0,1
+Cloud and software,orcl_CloudAndSoftwareExpenses,,17597000000.0,,,1
+Hardware,orcl_HardwareExpenses,,868000000.0,782000000.0,891000000.0,1
+Services,orcl_ServicesExpense,,4556000000.0,4576000000.0,4825000000.0,1
+Amortization of intangible assets,us-gaap_AmortizationOfIntangibleAssets,AmortizationOfIntangibles,1671000000.0,2307000000.0,3010000000.0,1
+Acquisition related and other,us-gaap_BusinessCombinationAcquisitionRelatedCosts,RestructuringExpenseBenefit,,75000000.0,314000000.0,1
+Restructuring and other,orcl_RestructuringAndOtherExpenses,,1838000000.0,,,1
+Total operating expenses,us-gaap_CostsAndExpenses,CostsSubtotal,46751000000.0,39721000000.0,37608000000.0,1
+Preferred stock dividends,us-gaap_PreferredStockDividendsIncomeStatementImpact,PreferredDividendExpense,103000000.0,,,1
+"Net income available to common shareholders, Basic",us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,NetIncomeToCommonShareholders,16984000000.0,,,1
+"Net income available to common shareholders, Diluted",us-gaap_NetIncomeLossAvailableToCommonStockholdersDiluted,,16984000000.0,,,1
+Research and development,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,10272000000.0,9860000000.0,8915000000.0,1
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,1618000000.0,1602000000.0,1548000000.0,1
+Sales and marketing,us-gaap_SellingAndMarketingExpense,SellingGeneralAndAdminExpenses,8331000000.0,8651000000.0,8274000000.0,1
+Operating income,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,20606000000.0,17678000000.0,15353000000.0,1
+Interest expense,us-gaap_InterestExpense,InterestExpense,-4599000000.0,-3578000000.0,-3514000000.0,-1
+"Non-operating income (expenses), net",orcl_NonoperatingIncomeExpenseIncludingEliminationOfNetIncomeLossAttributableToNoncontrollingInterests,,3547000000.0,60000000.0,-98000000.0,1
+Income before income taxes,orcl_IncomeLossFromContinuingOperationsIncludingNoncontrollingInterestBeforeIncomeTaxesExtraordinaryItems,,19554000000.0,14160000000.0,11741000000.0,1
+Provision for income taxes,us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,2467000000.0,1717000000.0,1274000000.0,1
+Net income,us-gaap_NetIncomeLoss,NetIncome,17087000000.0,12443000000.0,10467000000.0,1
+Basic,us-gaap_EarningsPerShareBasic,,5.94,4.46,3.82,1
+Diluted,us-gaap_EarningsPerShareDiluted,,5.83,4.34,3.71,1
+Basic,us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,2860000000.0,2789000000.0,2744000000.0,1
+Diluted,us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,2914000000.0,2866000000.0,2823000000.0,1
+Restructuring,us-gaap_RestructuringCharges,RestructuringExpenseBenefit,,299000000.0,404000000.0,1

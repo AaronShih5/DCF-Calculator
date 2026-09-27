@@ -1,0 +1,21 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,preferred_sign
+Total revenue,us-gaap_RevenueFromContractWithCustomerIncludingAssessedTax,Revenue,9827592000.0,9479651000.0,8549924000.0,4843760000.0,647986000.0,1279908000.0,6462376000.0,1
+Total cruise operating expense,us-gaap_CostOfGoodsAndServicesSold,CostOfGoodsAndServicesSold,5639163000.0,5688696000.0,5468587000.0,4267086000.0,1608037000.0,,,1
+Depreciation and amortization,us-gaap_DepreciationAndAmortization,DepreciationExpense,1078755000.0,890242000.0,808568000.0,749326000.0,700845000.0,717840000.0,646188000.0,1
+"Interest expense, net",us-gaap_InterestIncomeExpenseNonoperatingNet,InterestExpense,-953506000.0,-747223000.0,-727531000.0,-801512000.0,-2072925000.0,-482313000.0,-272867000.0,1
+"Marketing, general and administrative",us-gaap_SellingGeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,1548806000.0,1434807000.0,1341858000.0,1379105000.0,891452000.0,745345000.0,974850000.0,1
+Total other operating expense,us-gaap_OperatingExpenses,TotalOperatingExpenses,2627561000.0,2325049000.0,2150426000.0,2128431000.0,1592297000.0,3070982000.0,1621038000.0,1
+Operating income,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,1560868000.0,1465906000.0,930911000.0,-1551757000.0,-2552348000.0,-3484135000.0,1178077000.0,1
+"Other income (expense), net",us-gaap_OtherNonoperatingIncomeExpense,NonoperatingIncomeExpense,-178641000.0,54224000.0,-40204000.0,76566000.0,123953000.0,-33599000.0,6155000.0,1
+Total non-operating income (expense),us-gaap_NonoperatingIncomeExpense,NonoperatingIncomeExpense,-1132147000.0,-692999000.0,-767735000.0,-724946000.0,-1948972000.0,-515912000.0,-266712000.0,1
+Net income before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,428721000.0,772907000.0,163176000.0,-2276703000.0,-4501320000.0,-4000047000.0,911365000.0,1
+Income tax benefit (expense),us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,5475000.0,-137350000.0,-3002000.0,-6794000.0,5267000.0,12467000.0,-18863000.0,-1
+Net income,us-gaap_NetIncomeLoss,NetIncome,423246000.0,910257000.0,166178000.0,-2269909000.0,-4506587000.0,-4012514000.0,930228000.0,1
+Total cruise operating expense,us-gaap_DirectOperatingCosts,CostOfGoodsAndServicesSold,,,,,,1693061000.0,3663261000.0,1
+Basic (in dollars per share),us-gaap_EarningsPerShareBasic,,0.94,2.09,0.39,-5.41,-12.33,-15.75,4.33,1
+Diluted (in dollars per share),us-gaap_EarningsPerShareDiluted,,0.92,1.89,0.39,-5.41,-12.33,-15.75,4.3,1
+Impairment loss,us-gaap_AssetImpairmentCharges,AssetImpairmentChargesIS,,,,,,1607797000.0,,1
+Payroll and related,us-gaap_LaborAndRelatedExpense,CostOfGoodsAndServicesSold,,,,,,521301000.0,924157000.0,1
+Fuel,us-gaap_FuelCosts,CostOfGoodsAndServicesSold,,,,,,264712000.0,409602000.0,1
+Basic (in shares),us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,448542442.0,435278605.0,424424962.0,419773195.0,365449967.0,254728932.0,214929977.0,1
+Diluted (in shares),us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,477742311.0,515030548.0,427400849.0,419773195.0,365449967.0,254728932.0,216475076.0,1

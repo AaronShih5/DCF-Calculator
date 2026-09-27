@@ -1,0 +1,31 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,preferred_sign
+Revenue,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,5480717000.0,4709248000.0,3283087000.0,2817058000.0,2793104000.0,1
+Cost of revenue,us-gaap_CostOfRevenue,CostOfGoodsAndServicesSold,665140000.0,1166806000.0,1059191000.0,1256065000.0,988095000.0,1
+Total costs and expenses,us-gaap_CostsAndExpenses,CostsSubtotal,1328803000.0,2835789000.0,2634880000.0,2864849000.0,2643088000.0,1
+"Loss from discontinued operations, net of income taxes",us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,DiscontinuedOperationsIncome,-99444000.0,,,,,1
+Continuing operations (in dollars per share),us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,,10.13,,,,,1
+Discontinued operations (in dollars per share),us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,-0.29,,,,,1
+Continuing operations (in dollars per share),us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,,10.04,,,,,1
+Discontinued operations (in dollars per share),us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,,-0.29,,,,,1
+Research and development,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,226510000.0,638689000.0,592386000.0,507607000.0,366402000.0,1
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,233502000.0,181085000.0,152585000.0,181627000.0,158699000.0,1
+Sales and marketing,us-gaap_SellingAndMarketingExpense,SellingGeneralAndAdminExpenses,203651000.0,849209000.0,830718000.0,919550000.0,1129892000.0,1
+Income from operations,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,4151914000.0,1873459000.0,648207000.0,-47791000.0,150016000.0,1
+Interest expense and loss on settlement of debt,us-gaap_InterestAndDebtExpense,InterestExpense,207016000.0,318260000.0,275665000.0,171863000.0,103170000.0,-1
+"Other income, net",us-gaap_OtherNonoperatingIncomeExpense,NonoperatingIncomeExpense,8012000.0,20806000.0,8028000.0,14477000.0,-535000.0,1
+"Total other expense, net",us-gaap_NonoperatingIncomeExpense,NonoperatingIncomeExpense,-199004000.0,-297454000.0,-267637000.0,-157386000.0,-103705000.0,1
+Income before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,3952910000.0,1576005000.0,380570000.0,-205177000.0,46311000.0,1
+Provision for income taxes,us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,519715000.0,-3771000.0,23859000.0,-12230000.0,10973000.0,1
+Net income from continuing operations,us-gaap_IncomeLossFromContinuingOperations,IncomeLossContinuingOperations,3433195000.0,,,,,1
+Net income,us-gaap_NetIncomeLoss,NetIncome,3333751000.0,1579776000.0,356711000.0,-192746000.0,35446000.0,1
+Extinguishments of acquisition-related contingent consideration,app_ExtinguishmentOfAcquisitionRelatedContingentConsideration,,,,,0.0,0.0,1
+Net income (loss) attributable to common stock—Basic,us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,NetIncomeToCommonShareholders,,1577059000.0,354942000.0,-192746000.0,31703000.0,1
+Net income (loss) attributable to common stock—Diluted,us-gaap_NetIncomeLossAvailableToCommonStockholdersDiluted,,,1577144000.0,354993000.0,-192746000.0,31879000.0,1
+Basic net income per share (in dollars per share),us-gaap_EarningsPerShareBasic,,9.84,4.68,1.01,-0.52,0.1,1
+Diluted net income per share (in dollars per share),us-gaap_EarningsPerShareDiluted,,9.75,4.53,0.98,-0.52,0.09,1
+Less: Net income attributable to participating securities,us-gaap_UndistributedEarningsLossAllocatedToParticipatingSecuritiesBasic,NonoperatingIncomeExpense,,2717000.0,1769000.0,0.0,3743000.0,1
+Less: Net loss attributable to noncontrolling interest,us-gaap_NetIncomeLossAttributableToRedeemableNoncontrollingInterest,MinorityInterestIncomeExpense,,0.0,0.0,-201000.0,-108000.0,1
+Net income (loss),us-gaap_ProfitLoss,ProfitLoss,,1579776000.0,356711000.0,-192947000.0,35338000.0,1
+Basic (in shares),us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,338781000.0,336921483.0,351952187.0,371568011.0,324836076.0,1
+Diluted (in shares),us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,341970000.0,347807555.0,362589246.0,371568011.0,342763632.0,1
+Lease modification and abandonment of leasehold improvements,app_LeaseModificationAndAbandonmentOfLeaseholdImprovements,,,,,0.0,0.0,1

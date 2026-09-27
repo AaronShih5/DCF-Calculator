@@ -1,0 +1,86 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,preferred_sign
+Net income,us-gaap_NetIncomeLoss,NetIncome,3333751000.0,,,,,1
+"Amortization, depreciation and write-offs",us-gaap_DepreciationDepletionAndAmortization,DepreciationExpense,194778000.0,448680000.0,489008000.0,547084000.0,431063000.0,1
+Goodwill impairment,us-gaap_GoodwillImpairmentLoss,AssetImpairmentChargesIS,188943000.0,,,,,1
+"Stock-based compensation, excluding cash-settled awards",us-gaap_ShareBasedCompensation,StockBasedCompensationExpense,210421000.0,369367000.0,363107000.0,191612000.0,133177000.0,1
+"Gain on divestiture, net of transaction costs",us-gaap_DiscontinuedOperationGainLossFromDisposalOfDiscontinuedOperationBeforeIncomeTax,ExtraordinaryItemsIncomeExpense(PostTax),106229000.0,,,,,-1
+Impairment of investments,us-gaap_OtherAssetImpairmentCharges,RestructuringExpenseBenefit,50000000.0,0.0,27953000.0,,,1
+Loss on settlement of debt,us-gaap_GainsLossesOnExtinguishmentOfDebt,InterestExpense,0.0,-28375000.0,,0.0,-18236000.0,-1
+Change in operating right-of-use assets,app_IncreaseDecreaseInOperatingLeaseRightOfUseAssets,,12295000.0,12689000.0,17842000.0,17107000.0,26313000.0,1
+Other,us-gaap_OtherOperatingActivitiesCashFlowStatement,NetCashFromOperatingActivities,9213000.0,2557000.0,6200000.0,1786000.0,,1
+Accounts receivable,us-gaap_IncreaseDecreaseInAccountsReceivable,,542219000.0,467028000.0,261279000.0,174829000.0,201948000.0,-1
+Prepaid expenses and other assets,us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,,-134658000.0,,,,,-1
+Accounts payable,us-gaap_IncreaseDecreaseInAccountsPayableTrade,ChangeInPayables,232486000.0,189585000.0,98574000.0,3479000.0,98612000.0,1
+Operating lease liabilities,app_IncreaseDecreaseInOperatingLeaseLiabilities,,-15229000.0,-14106000.0,-18612000.0,-18898000.0,-26854000.0,1
+Accrued and other liabilities,us-gaap_IncreaseDecreaseInOtherAccountsPayableAndAccruedLiabilities,ChangeInAccruedLiabilities,268226000.0,133974000.0,92754000.0,-6412000.0,3063000.0,1
+Net cash provided by operating activities,us-gaap_NetCashProvidedByUsedInOperatingActivities,NetCashFromOperatingActivities,3971094000.0,2099011000.0,1061510000.0,412773000.0,361851000.0,1
+Purchase of intangible assets,us-gaap_PaymentsToAcquireIntangibleAssets,PurchaseOfIntangibleAssets,28318000.0,,,,,-1
+Purchase of non-marketable equity securities,app_PurchaseOfNonmarketableInvestmentsAndOther,,20178000.0,76983000.0,17934000.0,66342000.0,15000000.0,-1
+"Proceeds from divestiture, net of cash divested",us-gaap_ProceedsFromDivestitureOfBusinessesNetOfCashDivested,DivestitureProceeds,407297000.0,,,,,1
+Other investing activities,us-gaap_PaymentsForProceedsFromOtherInvestingActivities,NetCashFromInvestingActivities,373000.0,,,-4312000.0,-12009000.0,-1
+Net cash provided by (used in) investing activities,us-gaap_NetCashProvidedByUsedInInvestingActivities,NetCashFromInvestingActivities,358428000.0,-106754000.0,-77829000.0,-1371468000.0,-1214930000.0,1
+Repurchases of common stock,us-gaap_PaymentsForRepurchaseOfCommonStock,EquityExpenseIncome(BuybackIssued),2191944000.0,981297000.0,1153593000.0,338880000.0,0.0,-1
+Payments of withholding taxes related to net share settlement,us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,392410000.0,1143525000.0,246435000.0,27535000.0,,-1
+Principal repayments of debt,us-gaap_RepaymentsOfDebt,DebtRepayments,200000000.0,4225223000.0,497994000.0,25810000.0,719810000.0,-1
+Payments of deferred acquisition costs,app_PaymentsOfDeferredAcquisitionCosts,,0.0,0.0,33903000.0,124184000.0,234068000.0,-1
+Principal payments of finance leases,us-gaap_FinanceLeasePrincipalPayments,FinanceLeasePayments,18669000.0,20875000.0,20170000.0,24083000.0,15271000.0,-1
+Payments of licensed asset obligation,app_PaymentsOfLicensedAssetObligation,,13532000.0,0.0,27110000.0,17374000.0,17970000.0,-1
+Payments of debt issuance cost,us-gaap_PaymentsOfDebtIssuanceCosts,PaymentsOfDebtIssuanceCosts,1843000.0,35563000.0,4655000.0,,,-1
+Proceeds from issuance of debt,us-gaap_ProceedsFromIssuanceOfDebt,DebtProceeds,200000000.0,4614841000.0,,,,1
+Net cash used in financing activities,us-gaap_NetCashProvidedByUsedInFinancingActivities,NetCashFromFinancingActivities,-2593069000.0,-1749844000.0,-1562791000.0,-526848000.0,3109546000.0,1
+"Net increase in cash and cash equivalents, including cash classified within current assets of discontinued operations",us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,NetChangeInCash,1745685000.0,239259000.0,-578332000.0,-1490020000.0,2253269000.0,1
+Less: net decrease in cash classified within current assets of discontinued operations,us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffectDisposalGroupIncludingDiscontinuedOperations,,-44381000.0,,,,,1
+Net (decrease) increase in cash and cash equivalents,us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffectContinuingOperations,,1790066000.0,,,,,1
+Non-cash consideration received from divestiture,us-gaap_NoncashOrPartNoncashDivestitureAmountOfConsiderationReceived1,,285000000.0,,,,,1
+"Right-of-use assets obtained in exchange for lease obligations, net of modifications",app_RightOfUseAssetsObtainedInExchangeForOperatingAndFinanceLeaseLiability,,-28570000.0,,,,,1
+Accrued withholding taxes related to net share settlement of restricted stock units,app_TaxesWithheldRelatedToNetShareSettlementOfRestrictedStock,,0.0,8606000.0,,,,1
+Issuance of convertible securities related to acquisitions,us-gaap_BusinessCombinationConsiderationTransferredLiabilitiesIncurred,,,,0.0,0.0,342170000.0,1
+Acquisition of business through issuance of common stock and common stock warrants,us-gaap_BusinessCombinationConsiderationTransferredEquityInterestsIssuedAndIssuable,,,,,,0.0,1
+Acquisitions not yet paid,app_AssetsAcquiredButNotYetPaid,,,0.0,0.0,31045000.0,79095000.0,1
+Assets acquired not yet paid,app_IntangibleAssetsAcquiredIncurredButNotYetPaid,,,510000.0,0.0,33566000.0,25640000.0,1
+Deferred IPO costs not yet paid,app_StockIssuanceCostsNotPaid,,,,,0.0,0.0,1
+Common stock issued in exchange for redeemable noncontrolling interest,us-gaap_StockIssued1,NetCashFromFinancingActivities,,,,0.0,0.0,1
+Settlement of bonus compensation through issuance of common stock,app_SettlementOfBonusCompensationThroughIssuanceOfCommonStock,,,,0.0,,,1
+Repurchases of common stock from related parties financed by promissory notes,app_PromissoryNotesIssuedForCommonStockRepurchased,,,,,,0.0,1
+Settlement of bonus compensation through issuance of common stock,app_Settlementofbonuscompensationthroughissuanceofcommonstock,,,,,0.0,2503000.0,1
+Interest expense offset by non-cash financing activities,app_InterestExpenseOffsetByNonCashFinancingActivities,,,,,,0.0,1
+"Effect of foreign exchange rate on cash, cash equivalents and restricted cash equivalents",us-gaap_EffectOfExchangeRateOnCashAndCashEquivalents,ForeignExchangeEffectOnCash,,,,,-3198000.0,1
+"Effect of foreign exchange rate on cash, cash equivalents, and restricted cash equivalents",us-gaap_EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,ForeignExchangeEffectOnCash,9232000.0,-3154000.0,778000.0,-4477000.0,,1
+Conversion of convertible securities to Class A common stock,app_NoncashOrPartNoncashAcquisitionSettlementOfConvertibleSecurityCommonStockIssued,,,,0.0,0.0,392170000.0,1
+Settlement of contingent consideration through issuance of common stock,app_NoncashOrPartNoncashAcquisitionNoncashFinancialOrEquityInstrumentConsiderationSharesIssuedValue,,,,,0.0,0.0,1
+Right-of-use assets acquired under finance leases,us-gaap_RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability,NetCashFromOperatingActivities,,20874000.0,113440000.0,46108000.0,,1
+Right-of-use assets acquired under operating leases,us-gaap_RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability,NetCashFromOperatingActivities,,5451000.0,6471000.0,,,1
+Assets acquired under finance leases,app_RightOfUseAssetsAcquiredUnderFinanceLeases,,,,,,20497000.0,1
+Right-of-use assets acquired under operating leases,app_RightOfUseAssetsAcquiredUnderOperatingLeases,,,,,7105000.0,,1
+"Cash paid for income taxes, net of refunds",us-gaap_IncomeTaxesPaidNet,IncomeTaxes,194843000.0,67332000.0,75433000.0,86264000.0,,1
+Cash paid for income taxes,us-gaap_IncomeTaxesPaid,,,,,,90616000.0,1
+Cash paid for interest,us-gaap_InterestPaidNet,InterestExpense,198788000.0,270615000.0,248828000.0,165959000.0,76695000.0,1
+Net income (loss),us-gaap_ProfitLoss,ProfitLoss,,1579776000.0,356711000.0,-192947000.0,35338000.0,1
+Loss on disposal of long-lived assets,us-gaap_DisposalGroupNotDiscontinuedOperationLossGainOnWriteDown,RestructuringExpenseBenefit,,1646000.0,,,,1
+Prepaid expenses and other current assets,app_IncreaseDecreaseInPrepaidExpensesAndOtherCurrentAssets,,,-4056000.0,12280000.0,3725000.0,97324000.0,-1
+Other assets,us-gaap_IncreaseDecreaseInOtherNoncurrentAssets,NetCashFromOperatingActivities,,189387000.0,121688000.0,77343000.0,45938000.0,-1
+Deferred revenue,us-gaap_IncreaseDecreaseInContractWithCustomerLiability,ChangeInDeferredRevenue,,-6633000.0,13857000.0,-14711000.0,-13907000.0,1
+Acquisitions of businesses and intangible assets,app_PaymentsToAcquireBusinessesAndToAcquireIntangibleAssets,,,25553000.0,,,,-1
+Purchase of property and equipment,us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,CapitalExpenses,,4776000.0,4246000.0,662000.0,1390000.0,-1
+Amortization of debt issuance costs and discount,app_AmortizationOfDebtIssuanceCostsAndDiscountsIncludingAmortizationOfHoldbackInterestAccretion,,,5460000.0,,,,1
+Proceeds from sale of assets and other,us-gaap_ProceedsFromSaleOfProductiveAssets,ProceedsFromSaleOfPPE,,558000.0,8250000.0,37000000.0,,1
+Issuance of common stock and common stock warrants in connection with acquisitions,app_IssuanceOfCommonStockAndCommonStockWarrantsInConnectionWithAcquisitions,,,0.0,0.0,137422000.0,,1
+Proceeds from sale of long-lived assets not yet received,app_ProceedsFromSaleOfPropertyPlantAndEquipmentNetYetReceived,,,0.0,0.0,7000000.0,,1
+Impairment and loss in connection with sale of long-lived assets,us-gaap_AssetImpairmentCharges,AssetImpairmentChargesIS,,,0.0,127892000.0,,1
+Acquisitions of businesses and intangible assets,us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,AcquisitionsNet,,,63899000.0,1339827000.0,1206482000.0,-1
+Payments of related party notes,us-gaap_RepaymentsOfRelatedPartyDebt,DebtRepayments,,,0.0,0.0,11655000.0,-1
+Amortization of debt issuance costs and discount,us-gaap_AmortizationOfFinancingCostsAndDiscounts,InterestExpense,,,9363000.0,12678000.0,12825000.0,1
+Proceeds from debt issuance,us-gaap_ProceedsFromDebtNetOfIssuanceCosts,NetCashFromFinancingActivities,,,395281000.0,0.0,2329059000.0,1
+"Proceeds from issuance of common stock in initial public offering, net of issuance costs as adjusted for cost reimbursement",us-gaap_ProceedsFromIssuanceInitialPublicOffering,NetCashFromFinancingActivities,,,0.0,0.0,1745228000.0,1
+Proceeds from exercise of stock options,us-gaap_ProceedsFromStockOptionsExercised,StockIssuanceProceeds,,,20932000.0,25487000.0,31156000.0,1
+Proceeds from the issuance of common stock through ESPP,us-gaap_ProceedsFromIssuanceOfSharesUnderIncentiveAndShareBasedCompensationPlans,StockIssuanceProceeds,25329000.0,41798000.0,4856000.0,5531000.0,2877000.0,1
+Accretion of interest on related party promissory notes,app_AccretionOfInterestOnRelatedPartyPromissoryNotes,,,,0.0,0.0,595000.0,1
+Loss on extinguishments of acquisition related contingent consideration,app_ChangeInTheFairValueOfContingentConsideration,,,,,0.0,-230000.0,1
+Capitalized software development costs,us-gaap_PaymentsToDevelopSoftware,PurchaseOfIntangibleAssets,,,,5949000.0,4067000.0,-1
+Payments of deferred IPO costs,us-gaap_PaymentsOfStockIssuanceCosts,NetCashFromFinancingActivities,,,,0.0,0.0,-1
+Proceeds from issuance of common stock,us-gaap_ProceedsFromIssuanceOfCommonStock,EquityExpenseIncome(BuybackIssued),,,,0.0,0.0,1
+Lease modification and abandonment of leasehold improvements,app_LeaseModificationAndAbandonmentOfLeaseholdImprovements,,,,,0.0,0.0,1
+Common stock warrant issued in connection with lease modification,app_CommonStockWarrantIssuedInConnectionWithLeaseModification,,,,,0.0,0.0,1
+Net loss (gain) on foreign currency remeasurement,us-gaap_ForeignCurrencyTransactionGainLossBeforeTax,ForeignCurrencyGainLoss,,,,,1734000.0,-1
+Loss on extinguishments of acquisition related contingent consideration,app_GainLossOnExtinguishmentsOfAcquisitionRelatedContingentConsideration,,,,,,0.0,-1
+Net unrealized gains on fair value remeasurement of financial instruments,app_NetUnrealizedGainOnFairValueRemeasurementOfFinancialInstruments,,,,,,8841000.0,-1

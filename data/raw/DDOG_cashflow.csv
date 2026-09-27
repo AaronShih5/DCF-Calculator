@@ -1,0 +1,47 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,preferred_sign
+Net income,us-gaap_ProfitLoss,ProfitLoss,107741000.0,183746000.0,48568000.0,-50160000.0,-20745000.0,-24547000.0,-16710000.0,1
+Depreciation and amortization,us-gaap_DepreciationAndAmortization,DepreciationExpense,55756000.0,54933000.0,44465000.0,34629000.0,22938000.0,15450000.0,12370000.0,1
+Accretion of discounts on marketable securities,us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,NonoperatingIncomeExpense,44516000.0,51932000.0,41621000.0,-4726000.0,-16236000.0,-9753000.0,-12000.0,-1
+Amortization of issuance costs,us-gaap_AmortizationOfFinancingCostsAndDiscounts,InterestExpense,5602000.0,3761000.0,3388000.0,3369000.0,3349000.0,18727000.0,5400000.0,1
+Net loss on conversion inducement and capped call settlement,ddog_NetLossOnConversionInducementAndCappedCallSettlement,,0.0,599000.0,,,,,,1
+Amortization of deferred contract costs,us-gaap_CapitalizedContractCostAmortization,,66773000.0,52047000.0,39207000.0,28003000.0,17866000.0,10447000.0,,1
+"Stock-based compensation, net of amounts capitalized",us-gaap_ShareBasedCompensation,StockBasedCompensationExpense,750671000.0,570336000.0,482300000.0,363154000.0,163737000.0,74374000.0,19034000.0,1
+Non-cash lease expense,ddog_NoncashLeaseExpense,,35451000.0,27263000.0,26382000.0,21416000.0,17201000.0,14060000.0,11763000.0,1
+Allowance for credit losses on accounts receivable,us-gaap_ProvisionForDoubtfulAccounts,ProvisionForDoubtfulAccountsCF,17024000.0,14847000.0,11933000.0,5215000.0,2311000.0,3283000.0,1195000.0,1
+Loss on disposal of property and equipment,us-gaap_GainLossOnDispositionOfAssets,GainLossOnAssetSalesCF,-2141000.0,-1660000.0,-706000.0,-1662000.0,-274000.0,-10000.0,-708000.0,-1
+"Accounts receivable, net",us-gaap_IncreaseDecreaseInAccountsReceivable,,157368000.0,104485000.0,121661000.0,135701000.0,107112000.0,64248000.0,47510000.0,-1
+Deferred contract costs,us-gaap_IncreaseDecreaseInDeferredCharges,NetCashFromOperatingActivities,126836000.0,76048000.0,69481000.0,51098000.0,42775000.0,25080000.0,20146000.0,-1
+Prepaid expenses and other current assets,us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,,21299000.0,26654000.0,13508000.0,6565000.0,737000.0,4403000.0,10046000.0,-1
+Other assets,us-gaap_IncreaseDecreaseInOtherOperatingAssets,,3806000.0,1003000.0,-1018000.0,5179000.0,2627000.0,-968000.0,8486000.0,-1
+Accounts payable,us-gaap_IncreaseDecreaseInAccountsPayable,,36628000.0,25610000.0,57773000.0,-1286000.0,3078000.0,6539000.0,2484000.0,1
+Accrued expenses and other liabilities,us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities,ChangeInAccruedLiabilities,52889000.0,-1626000.0,-40489000.0,37578000.0,37270000.0,3970000.0,6376000.0,1
+Deferred revenue,us-gaap_IncreaseDecreaseInContractWithCustomerLiability,ChangeInDeferredRevenue,273284000.0,197549000.0,230974000.0,168644000.0,176281000.0,69788000.0,67790000.0,1
+Net cash provided by operating activities,us-gaap_NetCashProvidedByUsedInOperatingActivities,NetCashFromOperatingActivities,1050135000.0,870603000.0,659954000.0,418407000.0,286545000.0,109091000.0,24234000.0,1
+Purchases of marketable securities,us-gaap_PaymentsToAcquireAvailableForSaleSecuritiesDebt,,3599841000.0,2653242000.0,2558013000.0,1413717000.0,1125519000.0,1794562000.0,176639000.0,-1
+Maturities of marketable securities,us-gaap_ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,InvestmentProceeds,2487657000.0,2018832000.0,1864557000.0,1137724000.0,1046560000.0,506554000.0,,1
+Proceeds from sale of marketable securities,ddog_ProceedsFromSaleOfDebtSecuritiesAvailableForSaleNetOfCallRedemptions,,31104000.0,,,,,,,1
+Purchases of property and equipment,us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,CapitalExpenses,49578000.0,34719000.0,27586000.0,35261000.0,9956000.0,5415000.0,13315000.0,-1
+Capitalized software development costs,us-gaap_PaymentsToDevelopSoftware,PurchaseOfIntangibleAssets,85840000.0,60781000.0,34820000.0,29628000.0,26069000.0,20468000.0,10128000.0,-1
+Cash paid for acquisition of businesses; net of cash acquired,us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,AcquisitionsNet,117982000.0,7131000.0,12498000.0,45878000.0,226505000.0,2363000.0,2138000.0,-1
+Net cash used in investing activities,us-gaap_NetCashProvidedByUsedInInvestingActivities,NetCashFromInvestingActivities,-1334480000.0,-736840000.0,-731365000.0,-384670000.0,-273740000.0,-1152624000.0,-202220000.0,1
+Proceeds from exercise of stock options,us-gaap_ProceedsFromStockOptionsExercised,StockIssuanceProceeds,6438000.0,7444000.0,20909000.0,10001000.0,14907000.0,15985000.0,7899000.0,1
+Proceeds from issuance of common stock under the employee stock purchase plan,us-gaap_ProceedsFromStockPlans,StockIssuanceProceeds,56816000.0,43686000.0,37370000.0,26025000.0,20278000.0,15170000.0,,1
+"Proceeds from issuance of 2029 Convertible Senior Notes, net of issuance costs",us-gaap_ProceedsFromConvertibleDebt,DebtProceeds,-190000.0,978881000.0,,,,,,1
+Proceeds from settlement of capped calls related to 2025 Convertible Senior Notes,ddog_ProceedsFromSettlementOfCappedCallsRelatedToConvertibleSeniorNotes,,0.0,54725000.0,,,,,,1
+Purchase of capped calls related to 2029 Convertible Senior Notes,ddog_PaymentOfCappedCallsRelatedToConvertibleSeniorNotes,,0.0,100900000.0,,,,,,-1
+Repayments of 2025 Convertible Senior Notes,us-gaap_RepaymentsOfConvertibleDebt,DebtRepayments,635547000.0,196753000.0,0.0,3000.0,,,,-1
+Net cash (used in) provided by financing activities,us-gaap_NetCashProvidedByUsedInFinancingActivities,NetCashFromFinancingActivities,-572483000.0,787083000.0,58279000.0,36023000.0,34940000.0,670276000.0,714216000.0,1
+Effect of exchange rate changes on cash and cash equivalents,us-gaap_EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,ForeignExchangeEffectOnCash,11150000.0,-4202000.0,1183000.0,-1935000.0,-1993000.0,779000.0,-21000.0,1
+Employee payroll taxes paid related to net share settlement under the employee stock purchase plan,us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,,,0.0,0.0,245000.0,1040000.0,,-1
+NET (DECREASE) INCREASE IN CASH AND CASH EQUIVALENTS,us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,NetChangeInCash,-845678000.0,916644000.0,-11949000.0,67825000.0,45752000.0,-372478000.0,536209000.0,1
+Cash paid for income taxes,us-gaap_IncomeTaxesPaid,,17649000.0,20993000.0,16505000.0,1595000.0,1486000.0,410000.0,143000.0,1
+Vesting of early exercised options,ddog_NonCashVestingOfEarlyExercisedOptions,,,0.0,0.0,33000.0,566000.0,1177000.0,1883000.0,1
+Accrued property and equipment purchases,us-gaap_NoncashOrPartNoncashAcquisitionFixedAssetsAcquired1,NetCashFromOperatingActivities,7270000.0,4922000.0,7046000.0,972000.0,1746000.0,234000.0,315000.0,1
+Stock-based compensation included in capitalized software development costs,us-gaap_EmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsCapitalizedAmount,StockBasedCompensationCF,23454000.0,13152000.0,13597000.0,14853000.0,9660000.0,3404000.0,201000.0,1
+Issuance of restricted shares of common stock for the acquisition of businesses,us-gaap_StockIssued1,NetCashFromFinancingActivities,53038000.0,3705000.0,1886000.0,14019000.0,57720000.0,5169000.0,,1
+Acquisition holdback,ddog_NoncashAcquisitionHoldback,,16072000.0,3148000.0,750000.0,8123000.0,5555000.0,1500000.0,,1
+Proceeds from sale of marketable securities,us-gaap_ProceedsFromSaleOfAvailableForSaleSecuritiesDebt,InvestmentProceeds,,201000.0,36995000.0,2090000.0,67749000.0,163630000.0,,1
+"Proceeds from issuance of convertible senior notes, net of issuance costs",us-gaap_ProceedsFromDebtNetOfIssuanceCosts,NetCashFromFinancingActivities,,,,0.0,0.0,730207000.0,,1
+"Proceeds from initial public offering, net of underwriting discounts and commissions and other offering costs",us-gaap_ProceedsFromIssuanceInitialPublicOffering,NetCashFromFinancingActivities,,,,0.0,0.0,-421000.0,706317000.0,1
+Purchase of capped call related to convertible senior notes,ddog_PurchaseOfCappedCallRelatedToConvertibleDebt,,,,,0.0,0.0,89625000.0,,-1
+Costs related to initial public offering included in accounts payable and accrued liabilities,ddog_NonCashCostsRelatedToInitialPublicOfferingIncludedInAccountsPayableAndAccruedLiabilities,,,,,,0.0,,423000.0,1

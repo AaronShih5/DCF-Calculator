@@ -1,0 +1,71 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,2018-12-31,2017-12-31,2016-12-31,preferred_sign
+Net income,us-gaap_NetIncomeLoss,NetIncome,9609400000.0,7571600000.0,7839000000.0,5624200000.0,5883200000.0,3553700000.0,2592300000.0,2591600000.0,2118500000.0,1471894000.0,1
+Depreciation and amortization,us-gaap_DepreciationDepletionAndAmortization,DepreciationExpense,1025900000.0,918600000.0,739800000.0,583600000.0,471000000.0,490800000.0,448500000.0,422700000.0,417500000.0,356928000.0,1
+Impairment and loss on disposal,us-gaap_GainLossOnSalesOfAssetsAndAssetImpairmentCharges,NonoperatingIncomeExpense,-49700000.0,-35800000.0,-37500000.0,,,,,,,,-1
+Share-based compensation expense,us-gaap_ShareBasedCompensation,StockBasedCompensationExpense,202300000.0,172600000.0,134800000.0,68900000.0,117500000.0,53900000.0,74600000.0,46300000.0,53100000.0,47701000.0,1
+Inventory reserves,us-gaap_InventoryWriteDown,RestructuringExpenseBenefit,469400000.0,554700000.0,485300000.0,278500000.0,180700000.0,192400000.0,221500000.0,218200000.0,120100000.0,73035000.0,1
+Deferred tax expense (benefit),us-gaap_DeferredIncomeTaxesAndTaxCredits,DeferredIncomeTaxCF,180700000.0,-144800000.0,-133600000.0,-564200000.0,-419600000.0,-211300000.0,-236800000.0,-238500000.0,-7600000.0,,1
+Equity method investments,asml_ProfitLossRelatedToEquityMethodInvestmentIncludingDividendsReceivedFromEquityMethodInvestmentsAndCapitalizationOfSupportFundingPaidToEquityMethodInvestments,,94600000.0,4400000.0,4200000.0,,,,,,,,1
+"Accounts receivable, net",us-gaap_IncreaseDecreaseInAccountsReceivable,,-1415500000.0,139900000.0,-959900000.0,2338000000.0,1754900000.0,-507500000.0,255000000.0,-201200000.0,1142400000.0,-187427000.0,-1
+"Finance receivables, net",us-gaap_IncreaseDecreaseInFinanceReceivables,,227200000.0,-1038700000.0,88600000.0,-212200000.0,-542300000.0,1125400000.0,95300000.0,,,,-1
+Inventories,us-gaap_IncreaseDecreaseInInventories,,832500000.0,1860900000.0,1646900000.0,2080900000.0,483200000.0,706700000.0,404700000.0,515700000.0,237800000.0,43662000.0,-1
+Other assets,us-gaap_IncreaseDecreaseInOtherOperatingAssets,,561900000.0,1299000000.0,344300000.0,864300000.0,222200000.0,75100000.0,199100000.0,404000000.0,389800000.0,152905000.0,-1
+Accrued and other liabilities,us-gaap_IncreaseDecreaseInAccruedLiabilities,ChangeInAccruedLiabilities,-237300000.0,625500000.0,222000000.0,439700000.0,347600000.0,47500000.0,82100000.0,,,,1
+Accounts payable,us-gaap_IncreaseDecreaseInAccountsPayable,,13400000.0,1127600000.0,-261700000.0,406200000.0,718600000.0,334300000.0,-12100000.0,97900000.0,266500000.0,50917000.0,1
+Current tax assets and liabilities,us-gaap_IncreaseDecreaseInIncomeTaxesPayableNetOfIncomeTaxesReceivable,ChangeInReceivables,334100000.0,689500000.0,-939400000.0,33600000.0,214400000.0,131500000.0,-202600000.0,,,,1
+Contract assets and liabilities,asml_IncreaseDecreaseInContractWithCustomerAssetAndLiabilityNet,,1122400000.0,1871800000.0,-1564600000.0,,,,,,,,1
+Net cash provided by operating activities,us-gaap_NetCashProvidedByUsedInOperatingActivities,NetCashFromOperatingActivities,12658500000.0,11166200000.0,5443400000.0,8486800000.0,10845800000.0,4627600000.0,3276400000.0,3072700000.0,1798600000.0,1665906000.0,1
+"Purchase of property, plant and equipment",us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,CapitalExpenses,1573600000.0,2067200000.0,2155600000.0,1281800000.0,900700000.0,962000000.0,766600000.0,574000000.0,338900000.0,316338000.0,-1
+Purchase of intangible assets,us-gaap_PaymentsToAcquireIntangibleAssets,PurchaseOfIntangibleAssets,57600000.0,15900000.0,40600000.0,37500000.0,39600000.0,38800000.0,119300000.0,35500000.0,19100000.0,8384000.0,-1
+Purchase of short-term investments,us-gaap_PaymentsToAcquireShortTermInvestments,InvestmentPurchases,406200000.0,305200000.0,23600000.0,334300000.0,1162700000.0,1475500000.0,1291500000.0,,,,-1
+Maturity of short-term investments,us-gaap_ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,InvestmentProceeds,5300000.0,305200000.0,125600000.0,864700000.0,1826400000.0,1359100000.0,1019000000.0,,,,1
+Purchase of equity investments,us-gaap_PaymentsToAcquireOtherInvestments,InvestmentPurchases,1302200000.0,,,,,,,918100000.0,1129300000.0,2520000000.0,-1
+Loans issued and other investments,asml_PaymentsFromIssuanceOfLoansAndOtherInvestingActivities,,703700000.0,526200000.0,561500000.0,,,,,,,,-1
+Repayment on loans,us-gaap_ProceedsFromCollectionOfLoansReceivable,NetCashFromInvestingActivities,260200000.0,,,,,,,,,,1
+Acquisition of subsidiaries (net of cash acquired),us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,AcquisitionsNet,0.0,0.0,33600000.0,0.0,0.0,222800000.0,,0.0,0.0,2641295000.0,-1
+Net cash used in investing activities,us-gaap_NetCashProvidedByUsedInInvestingActivities,NetCashFromInvestingActivities,-3777800000.0,-2609300000.0,-2689300000.0,-1028900000.0,-72000000.0,-1352200000.0,-1157500000.0,-491500000.0,-1209300000.0,-3188478000.0,1
+Dividend paid,us-gaap_PaymentsOfOrdinaryDividends,NetCashFromFinancingActivities,2550300000.0,2452900000.0,2348300000.0,2559800000.0,1368300000.0,1066400000.0,1325700000.0,,,,-1
+Purchase of treasury shares,us-gaap_PaymentsForRepurchaseOfCommonStock,EquityExpenseIncome(BuybackIssued),5950000000.0,500000000.0,1000000000.0,4639700000.0,8560300000.0,1207500000.0,410000000.0,1146200000.0,500000000.0,400000000.0,-1
+Net proceeds from issuance of shares,us-gaap_ProceedsFromIssuanceOrSaleOfEquity,,142300000.0,124000000.0,99400000.0,81800000.0,49000000.0,37900000.0,27200000.0,21800000.0,50600000.0,582742000.0,1
+Net proceeds from issuance of borrowings,us-gaap_ProceedsFromIssuanceOfDebt,DebtProceeds,754200000.0,,,,,,,,,,1
+Repayment of debt and finance lease obligations,us-gaap_RepaymentsOfDebtAndCapitalLeaseObligations,DebtRepayments,1066700000.0,25700000.0,,,,,,,,,-1
+Net cash used in financing activities,us-gaap_NetCashProvidedByUsedInFinancingActivities,NetCashFromFinancingActivities,-8670500000.0,-2832100000.0,-3003900000.0,-7138300000.0,-9891700000.0,-753000000.0,-1712300000.0,-1724300000.0,-1209100000.0,1963639000.0,1
+Net cash flows,us-gaap_NetCashProvidedByUsedInContinuingOperations,,210200000.0,5724800000.0,-249800000.0,319600000.0,882100000.0,2522400000.0,406600000.0,856900000.0,-619800000.0,441067000.0,1
+Effect of changes in exchange rates on cash,us-gaap_EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,ForeignExchangeEffectOnCash,-30100000.0,6400000.0,-13800000.0,-3100000.0,20300000.0,-5300000.0,4600000.0,,,,1
+Net increase (decrease) in cash and cash equivalents,us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,NetChangeInCash,180100000.0,5731200000.0,-263600000.0,316500000.0,902400000.0,2517100000.0,411200000.0,,,,1
+Net increase (decrease) in cash and cash equivalents,us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,,,,,,,,,862100000.0,-647900000.0,448151000.0,1
+Deferred income taxes,us-gaap_DeferredIncomeTaxExpenseBenefit,IncomeTaxes,,,,,,,,,,-580000.0,1
+Profit (loss) related to equity method investments,us-gaap_IncomeLossFromEquityMethodInvestments,EquityMethodInvestmentIncome,,,,,,,,,-16700000.0,,-1
+Dividend income from Equity Method Investments,us-gaap_ProceedsFromEquityMethodInvestmentDividendsOrDistributionsReturnOfCapital,NetCashFromInvestingActivities,,,,,,,,89200000.0,19700000.0,,1
+Dividend paid,us-gaap_PaymentsOfDividends,DistributionsToMinorityInterests,,,,,,,,597100000.0,516700000.0,445865000.0,-1
+Net proceeds from issuance of notes,us-gaap_ProceedsFromIssuanceOfSeniorLongTermDebt,DebtProceeds,,,,,,,,0.0,0.0,2230619000.0,1
+Tax benefit (deficit) from share-based payments,us-gaap_ExcessTaxBenefitFromShareBasedCompensationFinancingActivities,,,,,,,,,0.0,0.0,882000.0,1
+Effect of changes in exchange rates on cash,us-gaap_EffectOfExchangeRateOnCashAndCashEquivalentsContinuingOperations,,,,,,,,,5200000.0,-28100000.0,7084000.0,1
+"Change in unpaid portion of property, plant and equipment, excluded in investing activities, included in accounts payable",asml_IncreaseDecreaseInCapitalExpendituresIncurredButNotYetPaid,,22300000.0,23600000.0,49300000.0,50300000.0,,,,,,,1
+"Unpaid portion of property, plant & equipment excluded in investing activities",us-gaap_CapitalExpendituresIncurredButNotYetPaid,CapitalExpenses,,,,,29300000.0,46900000.0,,,,,1
+Cash received equity method investments,asml_Cashreceivedequitymethodinvestments,,,,,,,,99900000.0,,,,1
+"Proceeds from Equity Method Investment, Distribution",us-gaap_EquityMethodInvestmentDividendsOrDistributions,NetCashFromOperatingActivities,,,,,,,,61600000.0,,,1
+Finance receivables,us-gaap_IncreaseDecreaseInLeasingReceivables,,,,,,,,,664900000.0,-224800000.0,156140000.0,-1
+Accrued and other liabilities,us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,ChangeInOtherWorkingCapital,,,,,,,,237700000.0,491200000.0,-273930000.0,1
+Current tax assets and liabilities,us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,,,,,,,,,13100000.0,-151800000.0,93361000.0,1
+Contract assets and liabilities,us-gaap_IncreaseDecreaseInContractWithCustomerLiability,ChangeInDeferredRevenue,,,,,,,,975300000.0,,,1
+"Loss on disposal of property, plant and equipment",us-gaap_GainLossOnSaleOfPropertyPlantEquipment,GainLossOnDispositions,,,,,,,-3100000.0,-3600000.0,-2800000.0,-5233000.0,-1
+Loans issued and other investments,us-gaap_PaymentsToAcquireLoansReceivable,NetCashFromInvestingActivities,,,,,,,0.0,,,,-1
+Acquisition of equity method investments,us-gaap_PaymentsToAcquireEquityMethodInvestments,InvestmentPurchases,,,,,,,0.0,0.0,1019700000.0,,-1
+Loans issued and other investments,us-gaap_PaymentsForProceedsFromOtherInvestingActivities,NetCashFromInvestingActivities,,,,,,,,1000000.0,600000.0,7427000.0,-1
+Cash from (used for) derivative financial instruments,us-gaap_PaymentsForProceedsFromDerivativeInstrumentInvestingActivities,,,,,,,0.0,0.0,2400000.0,-27000000.0,15034000.0,-1
+Repayment on loans,us-gaap_ProceedsFromRepaymentsOfDebt,,,,,,,,900000.0,5400000.0,1600000.0,,1
+Allowance for doubtful receivables,us-gaap_ProvisionForDoubtfulAccounts,ProvisionForDoubtfulAccountsCF,,,,,,,,11200000.0,7800000.0,3161000.0,1
+Maturity of short-term investments,us-gaap_ProceedsFromSaleAndMaturityOfOtherInvestments,NetCashFromInvestingActivities,,,,,,,,1034100000.0,1250000000.0,2320000000.0,1
+Interest received,us-gaap_ProceedsFromInterestReceived,,201300000.0,169500000.0,190800000.0,42400000.0,36600000.0,32100000.0,,,,,1
+Interest paid,us-gaap_InterestPaidNet,InterestExpense,114500000.0,160000000.0,137800000.0,82200000.0,83000000.0,64100000.0,59900000.0,61000000.0,91400000.0,55688000.0,-1
+"Income taxes paid, net of refunds",us-gaap_IncomeTaxesPaidNet,IncomeTaxes,1621400000.0,1098000000.0,2568300000.0,1734600000.0,1235000000.0,650200000.0,678700000.0,554400000.0,475000000.0,115856000.0,-1
+Gain on sale of subsidiaries,us-gaap_GainLossOnSaleOfBusiness,GainLossOnDispositions,,,0.0,0.0,213700000.0,,,,,,-1
+Impairment and loss (gain) on disposal,us-gaap_AssetImpairmentCharges,AssetImpairmentChargesIS,,,,39300000.0,-15900000.0,5500000.0,4700000.0,15400000.0,9000000.0,3466000.0,1
+Equity method investments,asml_Profitlossrelatedtoequitymethodinvestmentincludingdividendsreceivedfromequitymethodinvestmentsandcapitalizationofsupportfundingpaidtoequitymethodinvestments,,,,,15300000.0,-49800000.0,11000000.0,56900000.0,,,,1
+Contract assets and liabilities,asml_IncreaseDecreaseinContractwithCustomerAssetandLiabilityNet,,,,,6632700000.0,5529800000.0,1418000000.0,1198300000.0,,,,1
+Loans issued and other investments,asml_ProceedsFromIssuanceOfLoansAndOtherInvestingActivities,,,,,-240000000.0,-124400000.0,-12200000.0,,,,,1
+"Net proceeds from issuance of notes, net of issuance costs",us-gaap_ProceedsFromIssuanceOfLongTermDebt,DebtProceeds,,22500000.0,997800000.0,495600000.0,0.0,1486300000.0,,,,,1
+Repayment of debt and finance lease obligations,us-gaap_RepaymentsOfLongTermDebt,DebtRepayments,,,752800000.0,516200000.0,12100000.0,3300000.0,3800000.0,2800000.0,243000000.0,4739000.0,-1
+Proceeds from sale of subsidiaries (net of cash disposed of),us-gaap_ProceedsFromDivestitureOfInterestInSubsidiariesAndAffiliates,,,,0.0,0.0,329000000.0,,,,,,1
+Land and buildings reclassification,asml_Landandbuildingsreclassification,,,,,,,,54700000.0,,,,1

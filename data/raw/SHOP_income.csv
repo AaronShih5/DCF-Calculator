@@ -1,0 +1,43 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,2018-12-31,2017-12-31,2016-12-31,preferred_sign
+Total revenues,us-gaap_SalesRevenueServicesNet,Revenue,,,,,,,,,673304000.0,389330000.0,1
+Merchant solutions,us-gaap_OtherCostOfServices,CostOfGoodsAndServicesSold,,,,,,,,,231784000.0,140357000.0,1
+Subscription solutions,us-gaap_CostOfServicesLicensesAndServices,CostOfGoodsAndServicesSold,,,,,,,,,61267000.0,39478000.0,1
+Revenues,us-gaap_Revenues,Revenue,11556000000.0,8880000000.0,,,,,,,,,1
+Transaction and loan losses,shop_TransactionAndLoanLosses,,417000000.0,227000000.0,152000000.0,134929000.0,81717000.0,51849000.0,,,,,1
+Impairment on sales of Shopify's logistics businesses,shop_DisposalGroupIncludingDiscontinuedOperationImpairmentOnSales,,0.0,0.0,1340000000.0,,,,,,,,1
+Interest income,us-gaap_InterestIncomeExpenseNonoperatingNet,InterestExpense,331000000.0,308000000.0,241000000.0,79141000.0,15356000.0,23434000.0,48182000.0,29436000.0,7850000.0,1536000.0,1
+Net realized gain (loss) on equity and other investments,shop_EquityMethodAndOtherInvestmentsRealizedGain,,33000000.0,3000000.0,-5000000.0,124006000.0,,,,,,,1
+Net unrealized (loss) gain on equity and other investments,shop_EquityMethodAndOtherInvestmentsUnrealizedGainLoss,,-186000000.0,988000000.0,1424000000.0,-2998296000.0,2859800000.0,135193000.0,,,,,1
+Net loss on equity method investment,us-gaap_IncomeLossFromEquityMethodInvestments,EquityMethodInvestmentIncome,-40000000.0,-138000000.0,-58000000.0,,,,,,,,1
+Realized loss on embedded derivative,us-gaap_EmbeddedDerivativeLossOnEmbeddedDerivative,NonoperatingIncomeExpense,123000000.0,,,,,,,,,,-1
+Foreign exchange gain (loss),us-gaap_ForeignCurrencyTransactionGainLossBeforeTax,ForeignCurrencyGainLoss,26000000.0,-8000000.0,1000000.0,-1901000.0,286000.0,669000.0,-2850000.0,-2069000.0,1312000.0,274000.0,1
+Unrealized gain (loss) on cash flow hedges,us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTaxParent,,15000000.0,-19000000.0,20000000.0,-10440000.0,-20061000.0,,,,,,1
+Tax effect on unrealized gain (loss) on cash flow hedges,us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTaxParent,,4000000.0,-5000000.0,0.0,59000.0,-5317000.0,,,,,,-1
+Total other comprehensive income (loss),us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,,11000000.0,-14000000.0,20000000.0,-10499000.0,-14744000.0,,,,,,1
+Comprehensive income,us-gaap_ComprehensiveIncomeNetOfTax,,1242000000.0,2005000000.0,152000000.0,-3470917000.0,2899915000.0,327233000.0,-111580000.0,-80204000.0,-34742000.0,-37173000.0,1
+Revenues,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,,,7060000000.0,5599864000.0,4611856000.0,2929491000.0,1578173000.0,1073229000.0,,,1
+Income before income taxes,us-gaap_IncomeLossAttributableToParent,NetIncome,,2228000000.0,185000000.0,-3622848000.0,3140592000.0,240364000.0,-95815000.0,,,,1
+Cost of revenues,us-gaap_CostOfGoodsAndServicesSold,CostOfGoodsAndServicesSold,6001000000.0,4408000000.0,3545000000.0,2845745000.0,2130712000.0,1387971000.0,712530000.0,476962000.0,,,1
+Gross profit,us-gaap_GrossProfit,GrossProfit,5555000000.0,4472000000.0,3515000000.0,2754119000.0,2481144000.0,1541520000.0,865643000.0,596267000.0,380253000.0,209495000.0,1
+Total cost of revenues,us-gaap_CostOfServices,CostOfGoodsAndServicesSold,,,,,,,,,293051000.0,179835000.0,1
+Research and development,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,1536000000.0,1367000000.0,1730000000.0,1503234000.0,854383000.0,552127000.0,355015000.0,230674000.0,135997000.0,74336000.0,1
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,471000000.0,410000000.0,491000000.0,707765000.0,374844000.0,245343000.0,178934000.0,107444000.0,67719000.0,43110000.0,1
+Sales and marketing,us-gaap_SellingAndMarketingExpense,SellingGeneralAndAdminExpenses,1663000000.0,1393000000.0,1220000000.0,1230490000.0,901557000.0,602048000.0,472841000.0,350069000.0,225694000.0,129214000.0,1
+Total operating expenses,us-gaap_OperatingExpenses,TotalOperatingExpenses,4087000000.0,3397000000.0,4933000000.0,3576418000.0,2212501000.0,1451367000.0,1006790000.0,688187000.0,429410000.0,246660000.0,1
+Subscription solutions,us-gaap_LicenseAndServicesRevenue,LicensingRevenue,,,,,,,,,310031000.0,188606000.0,1
+Merchant solutions,us-gaap_SalesRevenueServicesGross,Revenue,,,,,,,,,363273000.0,200724000.0,1
+Income (loss) from operations,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,1468000000.0,1075000000.0,-1418000000.0,-822299000.0,268643000.0,90153000.0,-141147000.0,-91920000.0,-49157000.0,-37165000.0,1
+Interest expense,us-gaap_InterestExpense,InterestExpense,,,,3499000.0,3493000.0,9085000.0,,,,,-1
+"Total other income, net",us-gaap_NonoperatingIncomeExpense,NonoperatingIncomeExpense,41000000.0,1153000000.0,1603000000.0,-2800549000.0,2871949000.0,150211000.0,45332000.0,27367000.0,9162000.0,1810000.0,1
+Income before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,1509000000.0,,,,,,,,,,1
+Provision for income taxes,us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,278000000.0,209000000.0,53000000.0,-162430000.0,225933000.0,-79145000.0,29027000.0,,,,-1
+Net income,us-gaap_NetIncomeLoss,NetIncome,1231000000.0,2019000000.0,132000000.0,-3460418000.0,2914659000.0,319509000.0,-124842000.0,-64553000.0,-39995000.0,-35355000.0,1
+Unrealized gain on cash flow hedges,us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTax,HedgingGainsLosses,,,,,,10510000.0,18046000.0,,,,1
+Tax effect on unrealized gain on cash flow hedges,us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTax,HedgingGainsLosses,,,,,,2786000.0,4784000.0,,,,-1
+Unrealized gain (loss) on cash flow hedges,us-gaap_OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax,,,,,,,,,-15651000.0,5253000.0,-1818000.0,1
+Basic and diluted net loss per share attributable to shareholders (in dollars per share),us-gaap_EarningsPerShareBasicAndDiluted,,,,,,,,-1.1,-0.61,-0.42,-0.42,1
+Weighted average shares used to compute basic and diluted net loss per share attributable to shareholders (in shares),us-gaap_WeightedAverageNumberOfShareOutstandingBasicAndDiluted,SharesFullyDilutedAverage,,,,,,,113026424.0,105671839.0,95774897.0,83988597.0,1
+Basic (in dollars per share),us-gaap_EarningsPerShareBasic,,0.95,1.57,0.1,-2.73,23.38,2.67,,,,,1
+Diluted (in dollars per share),us-gaap_EarningsPerShareDiluted,,0.94,1.55,0.1,-2.73,22.9,2.59,,,,,1
+Basic (in shares),us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,1298955860.0,1289812124.0,1281554559.0,1266268155.0,124658891.0,119569705.0,,,,,1
+Diluted (in shares),us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,1304953255.0,1301509980.0,1295511385.0,1266268155.0,127364735.0,123463274.0,,,,,1

@@ -1,0 +1,70 @@
+label,concept,standard_concept,2026-01-31,2025-01-31,2024-01-31,2023-01-31,2022-01-31,2021-01-31,preferred_sign
+Equity consideration in connection with a business combination,us-gaap_StockIssued1,NetCashFromFinancingActivities,,,,,0.0,0.0,1
+Stock-based compensation included in capitalized software development costs,us-gaap_EmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsCapitalizedAmount,StockBasedCompensationCF,,,,,,2072000.0,1
+Net change in unrealized gains or losses on available-for-sale debt securities,snow_NetChangeInUnrealizedGainsOrLossesOnAvailableForSaleDebtSecurities,,,,,,15807000.0,,1
+Amortization of deferred commissions,us-gaap_CapitalizedContractCostAmortization,,,,,,,28841000.0,1
+Non-cash operating lease costs,snow_LesseeOperatingLeasesNoncashOperatingCosts,,,,,,,33475000.0,1
+Other,us-gaap_OtherOperatingActivitiesCashFlowStatement,NetCashFromOperatingActivities,,,,,,4580000.0,1
+Purchases of investments,us-gaap_PaymentsToAcquireAvailableForSaleSecuritiesDebt,,,,,,,4859852000.0,-1
+Cash paid for income taxes,us-gaap_IncomeTaxesPaidNet,IncomeTaxes,,15675000.0,12452000.0,6550000.0,1482000.0,1195000.0,1
+Purchases of intangible assets included in accrued expenses and other liabilities,us-gaap_NoncashOrPartNoncashAcquisitionIntangibleAssetsAcquired1,NetCashFromOperatingActivities,,,,0.0,4544000.0,,1
+Net loss,us-gaap_NetIncomeLoss,NetIncome,,,,,-679948000.0,-539102000.0,1
+Net unrealized gains on strategic investments in equity securities,snow_EquitySecuritiesFVNIAndWithoutReadilyDeterminableFairValueUnrealizedGainLoss,,,,,,27621000.0,,-1
+Payments of deferred purchase consideration for business combinations,us-gaap_PaymentForContingentConsiderationLiabilityFinancingActivities,NetCashFromFinancingActivities,,,,,1065000.0,1164000.0,-1
+Repurchases of early exercised stock options and restricted common stock,snow_PaymentsForRepurchaseOfEarlyExercisedStockOptionsAndRestrictedCommonStock,,,,,,0.0,30000.0,-1
+Vesting of early exercised stock options and restricted common stock,snow_ShareBasedPaymentArrangementVestingOfEarlyExercisedStockOptionsAndRestrictedCommonStock,,,,,,750000.0,3502000.0,1
+Vesting of early exercised stock options,snow_ShareBasedPaymentArrangementVestingOfEarlyExercisedStockOptions,,,,,244000.0,,,1
+Unpaid taxes related to net share settlement of equity awards included in accrued expenses and other current liabilities,snow_LiabilityRelatedToUnpaidTaxesTaxWithholdingShareBasedPaymentArrangement,,,7273000.0,6850000.0,,,,1
+Net unrealized losses (gains) on strategic investments in equity securities,us-gaap_EquitySecuritiesFvNiUnrealizedGainLoss,NonoperatingIncomeExpense,,,,-46435000.0,,,-1
+Sales of investments,us-gaap_ProceedsFromSaleOfAvailableForSaleSecuritiesDebt,InvestmentProceeds,,,11266000.0,58813000.0,440069000.0,177070000.0,1
+Proceeds from early exercised stock options,snow_ProceedsFromStockOptionsExercisedEarly,,,,,0.0,0.0,159000.0,1
+Repurchases of early exercised stock options,snow_PaymentsForRepurchaseOfEarlyExercisedStockOptions,,,,,0.0,,,-1
+Proceeds from repayments of a nonrecourse promissory note,us-gaap_ProceedsFromRepaymentOfLoansToPurchaseCommonStock,,,,,0.0,0.0,2090000.0,1
+"Proceeds from issuance of redeemable convertible preferred stock, net of issuance costs",us-gaap_ProceedsFromIssuanceOfRedeemableConvertiblePreferredStock,StockIssuanceProceeds,,,,0.0,0.0,478573000.0,1
+"Proceeds from initial public offering and private placements, net of underwriting discounts",us-gaap_ProceedsFromIssuanceOfCommonStock,EquityExpenseIncome(BuybackIssued),,,,0.0,0.0,4242284000.0,1
+Deferred purchase consideration for acquisitions,snow_DeferredPurchaseConsiderationForAcquisitions,,,,,,,1065000.0,1
+Net income (loss),us-gaap_ProfitLoss,ProfitLoss,-1329035000.0,-1289212000.0,-837990000.0,-797526000.0,,,1
+Depreciation and amortization,us-gaap_DepreciationDepletionAndAmortization,DepreciationExpense,220443000.0,182508000.0,119903000.0,63535000.0,21498000.0,9826000.0,1
+Non-cash operating lease costs,snow_NoncashOperatingLeaseCosts,,66463000.0,59943000.0,52892000.0,46240000.0,35553000.0,,1
+Amortization of deferred commissions,us-gaap_AmortizationOfDeferredSalesCommissions,,140415000.0,93128000.0,74787000.0,57445000.0,37876000.0,,1
+Asset impairment related to office facility exit,us-gaap_AssetImpairmentCharges,AssetImpairmentChargesIS,108715000.0,,,,,,1
+"Stock-based compensation, net of amounts capitalized",us-gaap_ShareBasedCompensation,StockBasedCompensationExpense,1599547000.0,1479314000.0,1168015000.0,861533000.0,605095000.0,301441000.0,1
+Net accretion of discounts on investments,us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,NonoperatingIncomeExpense,21813000.0,43434000.0,61525000.0,-3497000.0,-48002000.0,-8630000.0,-1
+Net realized and unrealized losses (gains) on strategic investments in equity securities,us-gaap_EquitySecuritiesFvNiGainLoss,NonoperatingIncomeExpense,-59895000.0,-31420000.0,46809000.0,,,,-1
+Amortization of debt issuance costs,us-gaap_AmortizationOfFinancingCosts,InterestExpense,8298000.0,2759000.0,,,,,1
+Deferred income tax,us-gaap_DeferredIncomeTaxExpenseBenefit,IncomeTaxes,-2337000.0,-7671000.0,-26762000.0,-26664000.0,,,1
+"Non-cash restructuring charges (recoveries), net",snow_NonCashRestructuringChargesRecoveriesNet,,-11159000.0,,,,,,1
+Other,us-gaap_OtherNoncashIncomeExpense,OtherNonCashItemsCF,1250000.0,-7420000.0,-14895000.0,-1618000.0,-1297000.0,,-1
+Accounts receivable,us-gaap_IncreaseDecreaseInAccountsReceivable,,379969000.0,-536000.0,212083000.0,166965000.0,251652000.0,116289000.0,-1
+Deferred commissions,snow_IncreaseDecreaseInCapitalizedContractCost,,305063000.0,101569000.0,134787000.0,95107000.0,95877000.0,51444000.0,-1
+Prepaid expenses and other assets,us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,,44516000.0,-29850000.0,-59795000.0,2904000.0,159159000.0,62349000.0,-1
+Accounts payable,us-gaap_IncreaseDecreaseInAccountsPayable,,-8299000.0,108852000.0,19212000.0,8024000.0,7371000.0,-2878000.0,1
+Accrued expenses and other liabilities,us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities,ChangeInAccruedLiabilities,393337000.0,70876000.0,171048000.0,74519000.0,79772000.0,58252000.0,1
+Operating lease liabilities,snow_IncreaseDecreaseInOperatingLeaseLiabilities,,-26949000.0,-47711000.0,-40498000.0,-42342000.0,-38249000.0,-31281000.0,1
+Deferred revenue,us-gaap_IncreaseDecreaseInContractWithCustomerLiability,ChangeInDeferredRevenue,755219000.0,382755000.0,528029000.0,514301000.0,526221000.0,312881000.0,1
+Net cash provided by operating activities,us-gaap_NetCashProvidedByUsedInOperatingActivities,NetCashFromOperatingActivities,1221942000.0,959764000.0,848122000.0,545639000.0,110179000.0,-45417000.0,1
+Purchases of property and equipment,us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,CapitalExpenses,101628000.0,46279000.0,35086000.0,25128000.0,16221000.0,35037000.0,-1
+Capitalized software development costs,us-gaap_PaymentsToDevelopSoftware,PurchaseOfIntangibleAssets,0.0,29433000.0,34133000.0,24012000.0,12772000.0,5293000.0,-1
+"Cash paid for business combinations, net of cash, cash equivalents, and restricted cash acquired",us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,AcquisitionsNet,178850000.0,30305000.0,275706000.0,362609000.0,0.0,6035000.0,-1
+Purchases of intangible assets,us-gaap_PaymentsToAcquireIntangibleAssets,PurchaseOfIntangibleAssets,3101000.0,0.0,28744000.0,700000.0,24334000.0,8374000.0,-1
+Purchases of investments,us-gaap_PaymentsToAcquireInvestments,InvestmentPurchases,2040420000.0,2569243000.0,2476206000.0,3901321000.0,4250338000.0,,-1
+Sales of investments,snow_ProceedsFromSaleOfInvestments,,21203000.0,64573000.0,,,,,1
+Maturities and redemptions of investments,us-gaap_ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,InvestmentProceeds,2615037000.0,2802082000.0,3670867000.0,3657072000.0,3842796000.0,700876000.0,1
+Settlement of cash flow hedges,us-gaap_PaymentsForHedgeInvestingActivities,,0.0,749000.0,,,,,-1
+Net cash provided by investing activities,us-gaap_NetCashProvidedByUsedInInvestingActivities,NetCashFromInvestingActivities,312241000.0,190646000.0,832258000.0,-597885000.0,-20800000.0,-4036645000.0,1
+Proceeds from exercise of stock options,us-gaap_ProceedsFromStockOptionsExercised,StockIssuanceProceeds,84130000.0,44886000.0,57194000.0,39893000.0,127036000.0,53378000.0,1
+Proceeds from issuance of common stock under employee stock purchase plan,us-gaap_ProceedsFromStockPlans,StockIssuanceProceeds,88123000.0,77053000.0,61234000.0,40931000.0,52227000.0,,1
+Taxes paid related to net share settlement of equity awards,us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,672867000.0,489149000.0,380799000.0,184648000.0,,,-1
+Repurchases of common stock,us-gaap_PaymentsForRepurchaseOfCommonStock,EquityExpenseIncome(BuybackIssued),873537000.0,1932333000.0,591732000.0,,,0.0,-1
+Distributions to noncontrolling interest holders,us-gaap_PaymentsToMinorityShareholders,DistributionsToMinorityInterests,9295000.0,,,,,,-1
+Payments of deferred purchase consideration for business combinations,snow_PaymentsForDeferredConsiderationRelatedToBusinessCombinations,,1944000.0,250000.0,0.0,1800000.0,,,-1
+Gross proceeds from issuance of convertible senior notes,us-gaap_ProceedsFromConvertibleDebt,DebtProceeds,0.0,2300000000.0,,,,,1
+Cash paid for issuance costs on convertible senior notes,us-gaap_PaymentsOfDebtIssuanceCosts,PaymentsOfDebtIssuanceCosts,0.0,31230000.0,,,,,-1
+Purchases of capped calls related to convertible senior notes,snow_PaymentForCappedCallsRelatedToConvertibleSeniorNotes,,0.0,195500000.0,,,,,-1
+Net cash used in financing activities,us-gaap_NetCashProvidedByUsedInFinancingActivities,NetCashFromFinancingActivities,-1385390000.0,-226523000.0,-854103000.0,-92624000.0,178198000.0,4775290000.0,1
+"Effect of exchange rate changes on cash, cash equivalents, and restricted cash",us-gaap_EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,ForeignExchangeEffectOnCash,16832000.0,-6186000.0,-2031000.0,-933000.0,-236000.0,-11000.0,1
+"Net increase in cash, cash equivalents, and restricted cash",us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,NetChangeInCash,165625000.0,917701000.0,824246000.0,-145803000.0,267341000.0,693217000.0,1
+Property and equipment included in accounts payable and accrued expenses,us-gaap_CapitalExpendituresIncurredButNotYetPaid,CapitalExpenses,17206000.0,36061000.0,17463000.0,6317000.0,5115000.0,6941000.0,1
+Stock-based compensation included in capitalized software development costs,snow_ShareBasedPaymentArrangementAmountCapitalizedInSoftwareDevelopmentCosts,,0.0,38493000.0,48181000.0,28467000.0,23620000.0,,1
+Issuance of common stock in connection with business combinations,us-gaap_BusinessCombinationConsiderationTransferredEquityInterestsIssuedAndIssuable,,13074000.0,87706000.0,174284000.0,438916000.0,,,1
+Capital contributions from noncontrolling interest holders,us-gaap_ProceedsFromMinorityShareholders,StockIssuanceProceeds,,0.0,0.0,13000000.0,,,1

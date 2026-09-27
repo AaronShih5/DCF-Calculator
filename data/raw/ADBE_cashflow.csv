@@ -1,0 +1,49 @@
+label,concept,standard_concept,2025-11-28,2024-11-29,2023-12-01,2022-12-02,2021-12-03,2020-11-27,2019-11-29,2018-11-30,2017-12-01,2016-12-02,preferred_sign
+Net income,us-gaap_NetIncomeLoss,NetIncome,7130000000.0,5560000000.0,5428000000.0,4756000000.0,4822000000.0,5260000000.0,2951458000.0,2590774000.0,1693954000.0,1168782000.0,1
+"Depreciation, amortization and accretion",us-gaap_DepreciationDepletionAndAmortization,DepreciationExpense,818000000.0,857000000.0,872000000.0,856000000.0,788000000.0,757000000.0,736669000.0,346492000.0,325997000.0,331535000.0,1
+Stock-based compensation,us-gaap_ShareBasedCompensation,StockBasedCompensationExpense,1942000000.0,1833000000.0,1718000000.0,1440000000.0,1069000000.0,909000000.0,787705000.0,609562000.0,451451000.0,349912000.0,1
+Lease-related asset impairments,us-gaap_OperatingLeaseImpairmentLoss,OtherOperatingExpense,0.0,78000000.0,,,,,,,,,1
+Deferred income taxes,us-gaap_DeferredIncomeTaxesAndTaxCredits,DeferredIncomeTaxCF,-512000000.0,-468000000.0,-426000000.0,328000000.0,183000000.0,1501000000.0,2707000.0,-468936000.0,51605000.0,24222000.0,1
+Other non-cash items,us-gaap_OtherNoncashIncomeExpense,OtherNonCashItemsCF,-48000000.0,-10000000.0,-3000000.0,-10000000.0,-7000000.0,-40000000.0,-13835000.0,-7193000.0,-4625000.0,-2022000.0,-1
+"Trade receivables, net",us-gaap_IncreaseDecreaseInReceivables,ChangeInReceivables,275000000.0,-143000000.0,159000000.0,198000000.0,430000000.0,-106000000.0,187826000.0,1983000.0,187173000.0,160416000.0,-1
+Prepaid expenses and other assets,us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,,90000000.0,616000000.0,818000000.0,94000000.0,475000000.0,288000000.0,531054000.0,77225000.0,-28040000.0,71021000.0,-1
+Trade payables,us-gaap_IncreaseDecreaseInAccountsPayable,,64000000.0,44000000.0,-49000000.0,66000000.0,-20000000.0,96000000.0,23129000.0,54920000.0,-45186000.0,-6281000.0,1
+Accrued expenses and other liabilities,us-gaap_IncreaseDecreaseInAccruedLiabilities,ChangeInAccruedLiabilities,180000000.0,196000000.0,146000000.0,7000000.0,162000000.0,86000000.0,171705000.0,43837000.0,154125000.0,64978000.0,1
+Income taxes payable,us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,,-45000000.0,68000000.0,-11000000.0,19000000.0,2000000.0,-72000000.0,4152000.0,479184000.0,-34493000.0,-31987000.0,1
+Deferred revenue,us-gaap_IncreaseDecreaseInDeferredRevenue,ChangeInDeferredRevenue,771000000.0,309000000.0,536000000.0,536000000.0,1053000000.0,258000000.0,496959000.0,444693000.0,475402000.0,524840000.0,1
+Net cash provided by operating activities,us-gaap_NetCashProvidedByUsedInOperatingActivities,NetCashFromOperatingActivities,10031000000.0,8056000000.0,7302000000.0,7838000000.0,7230000000.0,5727000000.0,4421813000.0,4029304000.0,2912853000.0,2199728000.0,1
+Purchases of short-term investments,us-gaap_PaymentsToAcquireShortTermInvestments,InvestmentPurchases,2034000000.0,59000000.0,0.0,909000000.0,1533000000.0,1071000000.0,699893000.0,566084000.0,1931011000.0,2285222000.0,-1
+Maturities of short-term investments,us-gaap_ProceedsFromMaturitiesPrepaymentsAndCallsOfShorttermInvestments,ProceedsFromMaturitiesOfInvestments,1168000000.0,486000000.0,965000000.0,683000000.0,877000000.0,915000000.0,699540000.0,765860000.0,759737000.0,769228000.0,1
+Proceeds from sales of short-term investments,us-gaap_ProceedsFromSaleOfShortTermInvestments,InvestmentProceeds,6000000.0,11000000.0,223000000.0,270000000.0,191000000.0,167000000.0,86137000.0,1709480000.0,1393929000.0,860849000.0,1
+"Acquisitions, net of cash acquired",us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,AcquisitionsNet,17000000.0,0.0,0.0,126000000.0,2682000000.0,0.0,100704000.0,6314382000.0,459626000.0,48427000.0,-1
+Purchases of property and equipment,us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,CapitalExpenses,179000000.0,183000000.0,360000000.0,442000000.0,348000000.0,419000000.0,394479000.0,266579000.0,178122000.0,203805000.0,-1
+"Purchases of long-term investments, intangibles and other assets",us-gaap_PaymentsToAcquireLongtermInvestments,InvestmentPurchases,134000000.0,108000000.0,53000000.0,46000000.0,42000000.0,15000000.0,48735000.0,18513000.0,29918000.0,58433000.0,-1
+"Other investing activities, net",us-gaap_PaymentsForProceedsFromOtherInvestingActivities,NetCashFromInvestingActivities,-3000000.0,,,,,,,,,,-1
+Net cash provided by (used for) investing activities,us-gaap_NetCashProvidedByUsedInInvestingActivities,NetCashFromInvestingActivities,-1187000000.0,149000000.0,776000000.0,-570000000.0,-3537000000.0,-414000000.0,-455584000.0,-4685295000.0,-442877000.0,-960033000.0,1
+Repurchases of common stock,us-gaap_PaymentsForRepurchaseOfCommonStock,EquityExpenseIncome(BuybackIssued),11281000000.0,9500000000.0,4400000000.0,6550000000.0,3950000000.0,3050000000.0,2750000000.0,2050000000.0,1100000000.0,1075000000.0,-1
+Proceeds from re-issuance of treasury stock,us-gaap_ProceedsFromSaleOfTreasuryStock,EquityExpenseIncome(BuybackIssued),348000000.0,361000000.0,314000000.0,278000000.0,291000000.0,270000000.0,232932000.0,190990000.0,158351000.0,145697000.0,1
+Taxes paid related to net share settlement of equity awards,us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,475000000.0,677000000.0,589000000.0,518000000.0,719000000.0,,,,,,-1
+Proceeds from issuance of debt,us-gaap_ProceedsFromIssuanceOfLongTermDebt,DebtProceeds,1997000000.0,,,,,,,,,0.0,1
+Repayment of debt,us-gaap_RepaymentsOfLongTermDebt,DebtRepayments,1500000000.0,0.0,500000000.0,0.0,0.0,3150000000.0,,1707000.0,1960000.0,108000.0,-1
+"Other financing activities, net",us-gaap_ProceedsFromPaymentsForOtherFinancingActivities,NetCashFromFinancingActivities,-149000000.0,95000000.0,-7000000.0,-35000000.0,77000000.0,-21000000.0,11008000.0,,,,1
+Net cash used for financing activities,us-gaap_NetCashProvidedByUsedInFinancingActivities,NetCashFromFinancingActivities,-11060000000.0,-7724000000.0,-5182000000.0,-6825000000.0,-4301000000.0,-3488000000.0,-2946044000.0,-5568000.0,-1183735000.0,-1090706000.0,1
+Effect of foreign currency exchange rates on cash and cash equivalents,us-gaap_EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,ForeignExchangeEffectOnCash,34000000.0,-9000000.0,9000000.0,-51000000.0,,,,,,,1
+Net change in cash and cash equivalents,us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,NetChangeInCash,-2182000000.0,472000000.0,2905000000.0,392000000.0,-634000000.0,1828000000.0,,,,,1
+Taxes paid related to net share settlement of equity awards,adbe_CostOfIssuanceOfTreasuryStock,,,,,,,681000000.0,439984000.0,393193000.0,240126000.0,236400000.0,-1
+Net increase (decrease) in cash and cash equivalents,us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,,,,,,,,1007446000.0,-663297000.0,1294757000.0,134755000.0,1
+Tax benefit from stock-based compensation,adbe_Taxbenefitfromstockbasedcompensation,,,,,,,,,,,75102000.0,1
+Excess tax benefits from stock-based compensation,us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,,,,,,,,,0.0,0.0,75105000.0,-1
+Excess tax benefits from stock-based compensation,us-gaap_ExcessTaxBenefitFromShareBasedCompensationFinancingActivities,,,,,,,,,0.0,0.0,75105000.0,1
+Proceeds from sale of property,us-gaap_ProceedsFromSaleOfPropertyPlantAndEquipment,ProceedsFromSaleOfPPE,,,,,,,,,0.0,0.0,1
+Gain on the sale of property,us-gaap_GainLossOnSaleOfProperties,NonoperatingIncomeExpense,,,,,,,,,0.0,0.0,-1
+Proceeds from sale of long-term investments,us-gaap_ProceedsFromSaleOfAvailableForSaleSecuritiesEquity,,,,,,,,,,2134000.0,5777000.0,1
+Debt issuance costs,us-gaap_PaymentsOfDebtIssuanceCosts,PaymentsOfDebtIssuanceCosts,,,,,,,,,0.0,0.0,-1
+Effect of foreign currency exchange rates on cash and cash equivalents,us-gaap_EffectOfExchangeRateOnCashAndCashEquivalents,ForeignExchangeEffectOnCash,,,,,-26000000.0,3000000.0,-12739000.0,-1738000.0,8516000.0,-14234000.0,1
+"Cash paid for income taxes, net of refunds",us-gaap_IncomeTaxesPaidNet,IncomeTaxes,2219000000.0,1727000000.0,1854000000.0,778000000.0,843000000.0,469000000.0,352478000.0,210369000.0,396668000.0,249884000.0,1
+Cash paid for interest,us-gaap_InterestPaidNet,InterestExpense,246000000.0,143000000.0,106000000.0,103000000.0,100000000.0,88000000.0,152075000.0,81258000.0,69430000.0,66193000.0,1
+Proceeds from sales of long-term investments and other assets,us-gaap_ProceedsFromSaleOfLongtermInvestments,InvestmentProceeds,,2000000.0,1000000.0,0.0,0.0,9000000.0,2550000.0,4923000.0,,,1
+"Unrealized losses (gains) on investments, net",us-gaap_UnrealizedGainLossOnInvestments,NonoperatingIncomeExpense,,35000000.0,10000000.0,-29000000.0,4000000.0,11000000.0,47626000.0,-793000.0,5494000.0,-3145000.0,-1
+Proceeds from issuance of debt,us-gaap_ProceedsFromIssuanceOfDebt,DebtProceeds,,1997000000.0,,0.0,0.0,3144000000.0,0.0,2248342000.0,0.0,,1
+Investment in lease receivable applied to building purchase,adbe_InvestmentinLeaseReceivableAppliedtoBuildingPurchase,,,,,,,,0.0,0.0,80439000.0,0.0,1
+Issuance of common stock and stock awards assumed in business acquisitions,adbe_EquityAwardsAssumedForAcquisition,,,,,,,0.0,0.0,2784000.0,10348000.0,0.0,1
+Reduction of operating lease right-of-use assets,adbe_IncreaseDecreaseInOperatingLeaseRightOfUseAssets,,,77000000.0,72000000.0,83000000.0,73000000.0,87000000.0,,,,,1

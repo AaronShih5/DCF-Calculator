@@ -1,0 +1,38 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,preferred_sign
+Cash and cash equivalents,us-gaap_CashAndCashEquivalentsAtCarryingValue,CashAndMarketableSecurities,401305000.0,1246983000.0,330339000.0,338985000.0,270973000.0,224927000.0,597297000.0,1
+Marketable securities,us-gaap_AvailableForSaleSecuritiesDebtSecuritiesCurrent,ShortTermInvestments,4073531000.0,2942076000.0,2252559000.0,1545341000.0,1283473000.0,1292532000.0,176674000.0,1
+Accounts payable,us-gaap_AccountsPayableCurrent,TradePayables,148791000.0,107731000.0,87712000.0,23474000.0,25270000.0,21342000.0,15429000.0,1
+"Property and equipment, net",us-gaap_PropertyPlantAndEquipmentNet,PlantPropertyEquipmentNet,338093000.0,226970000.0,171872000.0,125346000.0,75152000.0,47197000.0,32749000.0,1
+Goodwill,us-gaap_Goodwill,Goodwill,530568000.0,360381000.0,352694000.0,348277000.0,292176000.0,17609000.0,9058000.0,1
+"Intangible assets, net",us-gaap_FiniteLivedIntangibleAssetsNet,IntangibleAssets,14968000.0,3711000.0,9617000.0,16365000.0,15704000.0,2069000.0,1435000.0,1
+Total current assets,us-gaap_AssetsCurrent,CurrentAssetsTotal,5382280000.0,4911115000.0,3178137000.0,2344234000.0,1870948000.0,1718080000.0,903942000.0,1
+Other assets,us-gaap_OtherAssetsNoncurrent,OtherNonOperatingNonCurrentAssets,36553000.0,24077000.0,23462000.0,24360000.0,19907000.0,16967000.0,16990000.0,1
+Accrued expenses and other current liabilities,us-gaap_OtherLiabilitiesCurrent,OtherNonOperatingCurrentLiabilities,209595000.0,127136000.0,127631000.0,171158000.0,,,,1
+Total current liabilities,us-gaap_LiabilitiesCurrent,CurrentLiabilitiesTotal,1591401000.0,1862713000.0,1003052000.0,759748000.0,528696000.0,297844000.0,200239000.0,1
+Other liabilities,us-gaap_OtherLiabilitiesNoncurrent,OtherNonOperatingNonCurrentLiabilities,11890000.0,9383000.0,6093000.0,6226000.0,9411000.0,4262000.0,2611000.0,1
+Total liabilities,us-gaap_Liabilities,Liabilities,2911638000.0,3070976000.0,1910718000.0,1594347000.0,1339591000.0,932853000.0,255700000.0,1
+"Operating lease liabilities, current",us-gaap_OperatingLeaseLiabilityCurrent,OperatingLeaseCurrentDebtEquivalent,39369000.0,31970000.0,21974000.0,22092000.0,20157000.0,16326000.0,11916000.0,1
+"Convertible senior notes, net, current",us-gaap_ConvertibleNotesPayableCurrent,ShortTermDebt,0.0,634023000.0,,,,,,1
+"Operating lease liabilities, non-current",us-gaap_OperatingLeaseLiabilityNoncurrent,OperatingLeaseNonCurrentDebtEquivalent,256187000.0,196905000.0,138128000.0,76582000.0,52106000.0,51433000.0,48510000.0,1
+"Convertible senior notes, net, non-current",us-gaap_ConvertibleLongTermNotesPayable,LongTermDebt,983449000.0,979282000.0,742235000.0,738847000.0,735482000.0,575864000.0,,1
+COMMITMENTS AND CONTINGENCIES (NOTE 9),us-gaap_CommitmentsAndContingencies,,,,,,,,,1
+"Deferred revenue, non-current",us-gaap_ContractWithCustomerLiabilityNoncurrent,ContractLiabilities,68711000.0,22693000.0,21210000.0,12944000.0,13896000.0,3450000.0,,1
+"Deferred revenue, current",us-gaap_ContractWithCustomerLiabilityCurrent,OtherOperatingCurrentLiabilities,1193646000.0,961853000.0,765735000.0,543024000.0,371985000.0,204825000.0,,1
+TOTAL ASSETS,us-gaap_Assets,Assets,6643844000.0,5785339000.0,3936072000.0,3004852000.0,2380794000.0,1890285000.0,1038041000.0,1
+"Accounts receivable, net of allowance for credit losses of $19,292 and $16,302 as of December 31, 2025 and 2024, respectively",us-gaap_AccountsReceivableNetCurrent,TradeReceivables,741262000.0,598919000.0,509279000.0,399551000.0,268824000.0,163359000.0,102394000.0,1
+"Deferred contract costs, current",us-gaap_DeferredCostsCurrent,OtherOperatingCurrentAssets,76022000.0,56095000.0,44938000.0,33054000.0,23235000.0,13638000.0,8346000.0,1
+Prepaid expenses and other current assets,us-gaap_PrepaidExpenseAndOtherAssetsCurrent,OtherNonOperatingCurrentAssets,90160000.0,67042000.0,41022000.0,27303000.0,24443000.0,23624000.0,19231000.0,1
+Operating lease assets,us-gaap_OperatingLeaseRightOfUseAsset,OperatingLeaseRightOfUseAsset,214674000.0,172512000.0,126562000.0,87629000.0,61355000.0,57829000.0,53002000.0,1
+"Deferred contract costs, non-current",us-gaap_DeferredCosts,OtherOperatingNonCurrentAssets,126708000.0,86573000.0,73728000.0,55338000.0,42062000.0,26750000.0,17409000.0,1
+Restricted cash,us-gaap_RestrictedCashNoncurrent,RestrictedCashNonCurrent,,,0.0,3303000.0,3490000.0,3784000.0,,1
+Accrued expenses and other current liabilities,us-gaap_AccruedLiabilitiesAndOtherLiabilities,OtherOperatingCurrentLiabilities,,,,,111284000.0,55351000.0,38746000.0,1
+Restricted cash,us-gaap_RestrictedCashAndCashEquivalentsNoncurrent,OtherOperatingNonCurrentAssets,,,,,,,3456000.0,1
+"Deferred revenue, current",us-gaap_DeferredRevenueCurrent,DeferredRevenueCurrent,,,,,,,134148000.0,1
+"Deferred revenue, non-current",us-gaap_DeferredRevenueNoncurrent,DeferredRevenueNonCurrent,,,,,,,4340000.0,1
+"Common stock, value",us-gaap_CommonStockValue,CommonEquity,3000.0,3000.0,3000.0,3000.0,3000.0,3000.0,3000.0,1
+Additional paid-in capital,us-gaap_AdditionalPaidInCapitalCommonStock,AdditionalPaidInCapital,3579010000.0,2689013000.0,2181267000.0,1625190000.0,1197136000.0,1103305000.0,905821000.0,1
+Retained earnings,us-gaap_RetainedEarningsAccumulatedDeficit,RetainedEarnings,137789000.0,30048000.0,-153698000.0,-202266000.0,-152106000.0,-148163000.0,-123616000.0,1
+Accumulated other comprehensive income (loss),us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,AccumulatedOtherComprehensiveIncome,15404000.0,-4701000.0,-2218000.0,-12422000.0,-3830000.0,2287000.0,133000.0,1
+Total stockholders’ equity,us-gaap_StockholdersEquity,AllEquityBalance,3732206000.0,2714363000.0,2025354000.0,1410505000.0,1041203000.0,957432000.0,782341000.0,1
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY,us-gaap_LiabilitiesAndStockholdersEquity,LiabilitiesAndEquity,6643844000.0,5785339000.0,3936072000.0,3004852000.0,2380794000.0,1890285000.0,1038041000.0,1
+"Preferred stock; $0.00001 par value per share; 20,000,000 and 0 shares authorized as of December 31, 2019 and 2018, respectively; 0 shares issued and outstanding as of December 31, 2019 and 2018, respectively",us-gaap_PreferredStockValue,PreferredStock,,,,,,,,1

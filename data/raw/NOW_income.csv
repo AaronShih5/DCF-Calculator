@@ -1,0 +1,35 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,2018-12-31,2017-12-31,2016-12-31,preferred_sign
+Professional services and other,us-gaap_SalesRevenueServicesNet,Revenue,,,,,,,,,193231000.0,168874000.0,1
+Total revenues,us-gaap_SalesRevenueNet,Revenue,,,,,,,,,1933026000.0,1390513000.0,1
+Total revenues,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,13278000000.0,10984000000.0,8971000000.0,7245000000.0,5896000000.0,4519484000.0,3460437000.0,2608816000.0,,,1
+Interest income,now_InterestIncomeNonOperating,,451000000.0,419000000.0,302000000.0,,,,,,,,1
+Foreign currency translation adjustments,us-gaap_OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,,148000000.0,-93000000.0,27000000.0,-70000000.0,-41000000.0,66243000.0,20539000.0,-1903000.0,14867000.0,-4839000.0,1
+"Unrealized gains on marketable securities, net of tax",us-gaap_OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,,27000000.0,12000000.0,38000000.0,-66000000.0,-19000000.0,2731000.0,8751000.0,-665000.0,,,1
+"Unrealized (losses) gains on derivative instruments, net of tax",us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax,,-88000000.0,50000000.0,,,,,,,,,1
+Other comprehensive income (loss),us-gaap_OtherComprehensiveIncomeLossNetOfTax,,87000000.0,-31000000.0,65000000.0,-136000000.0,-60000000.0,68974000.0,29290000.0,-2568000.0,20244000.0,-4251000.0,1
+Comprehensive income,us-gaap_ComprehensiveIncomeNetOfTax,,1835000000.0,1394000000.0,1796000000.0,189000000.0,170000000.0,187477000.0,655988000.0,-29272000.0,-128886000.0,-456055000.0,1
+Total cost of revenues,us-gaap_CostOfRevenue,CostOfGoodsAndServicesSold,2983000000.0,2287000000.0,1921000000.0,1573000000.0,1353000000.0,987113000.0,796645000.0,622658000.0,499772000.0,398682000.0,1
+Gross profit,us-gaap_GrossProfit,GrossProfit,10295000000.0,8697000000.0,7050000000.0,5672000000.0,4543000000.0,3532371000.0,2663792000.0,1986158000.0,1433254000.0,991831000.0,1
+Research and development,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,2960000000.0,2543000000.0,2124000000.0,1768000000.0,1397000000.0,1024327000.0,748369000.0,529501000.0,377518000.0,285239000.0,1
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,1123000000.0,936000000.0,863000000.0,735000000.0,597000000.0,454165000.0,339016000.0,296027000.0,210533000.0,158936000.0,1
+Sales and marketing,us-gaap_SellingAndMarketingExpense,SellingGeneralAndAdminExpenses,4388000000.0,3854000000.0,3301000000.0,2814000000.0,2292000000.0,1855016000.0,1534284000.0,1203056000.0,946617000.0,700464000.0,1
+Total operating expenses,us-gaap_OperatingExpenses,TotalOperatingExpenses,8471000000.0,7333000000.0,6288000000.0,5317000000.0,4286000000.0,3333508000.0,2621669000.0,2028584000.0,1534668000.0,1414639000.0,1
+Subscription,us-gaap_LicenseAndServicesRevenue,LicensingRevenue,,,,,,,,,1739795000.0,,1
+Subscription,now_SubscriptionRevenues,,,,,,,,,,,1221639000.0,1
+Income from operations,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,1824000000.0,1364000000.0,762000000.0,355000000.0,257000000.0,198863000.0,42123000.0,-42426000.0,-101414000.0,-422808000.0,1
+Interest expense,us-gaap_InterestExpense,InterestExpense,,,,27000000.0,28000000.0,32746000.0,33283000.0,52733000.0,53394000.0,33278000.0,-1
+"Other expense, net",us-gaap_OtherNonoperatingIncomeExpense,NonoperatingIncomeExpense,-14000000.0,-45000000.0,-56000000.0,71000000.0,20000000.0,-16932000.0,58345000.0,56135000.0,5804000.0,6035000.0,1
+"Unrealized gains (losses) on investments, net of tax",us-gaap_UnrealizedGainLossOnInvestments,NonoperatingIncomeExpense,,,,,,,,,5377000.0,588000.0,1
+Income before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,2261000000.0,1738000000.0,1008000000.0,399000000.0,249000000.0,,,,,,1
+Income (loss) before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,PretaxIncomeLoss,,,,,,149185000.0,67185000.0,-39024000.0,-149004000.0,-450051000.0,1
+Legal settlements,us-gaap_LitigationSettlementExpense,NonoperatingIncomeExpense,,,,,,,,0.0,0.0,270000000.0,1
+Provision for (benefit from) income taxes,us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,513000000.0,313000000.0,-723000000.0,74000000.0,19000000.0,30682000.0,-559513000.0,-12320000.0,126000.0,1753000.0,1
+Net income,us-gaap_NetIncomeLoss,NetIncome,1748000000.0,1425000000.0,1731000000.0,325000000.0,230141000.0,118503000.0,626698000.0,-26704000.0,-149130000.0,-451804000.0,1
+Professional services and other,us-gaap_TechnologyServicesCosts,CostOfGoodsAndServicesSold,,,,,,,,,184202000.0,163268000.0,1
+Net loss per share - basic and diluted (in USD per share),us-gaap_EarningsPerShareBasicAndDiluted,,,,,,,,,-0.15,-0.87,-2.75,1
+Weighted-average shares used to compute net loss per share - basic and diluted (in shares),us-gaap_WeightedAverageNumberOfShareOutstandingBasicAndDiluted,SharesFullyDilutedAverage,,,,,,,,177846023.0,171175577.0,164533823.0,1
+Net income per share - basic (in USD per share),us-gaap_EarningsPerShareBasic,,1.69,6.92,8.48,1.61,1.16,0.61,3.36,,,,1
+Net income per share - diluted (in USD per share),us-gaap_EarningsPerShareDiluted,,1.67,6.84,8.42,1.6,1.13,0.59,3.18,,,,1
+Weighted-average shares used to compute net income per share - basic (in shares),us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,1036740000.0,205834000.0,204137000.0,201430000.0,198094000.0,193096000.0,186466000.0,,,,1
+Weighted-average shares used to compute net income per share - diluted (in shares),us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,1046691000.0,208423000.0,205591000.0,203535000.0,203167000.0,202478000.0,197223000.0,,,,1
+Subscription,us-gaap_CostOfGoodsSoldSubscription,CostOfGoodsAndServicesSold,,,,,,,,,315570000.0,235414000.0,1

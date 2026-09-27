@@ -1,0 +1,39 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,preferred_sign
+Cash and cash equivalents,us-gaap_CashAndCashEquivalentsAtCarryingValue,CashAndMarketableSecurities,2487096000.0,741411000.0,502152000.0,1080484000.0,1520504000.0,1
+Restricted cash equivalents,us-gaap_RestrictedCashAndCashEquivalentsAtCarryingValue,RestrictedCashCurrent,,,,0.0,1050000000.0,1
+Accounts payable,us-gaap_AccountsPayableCurrent,TradePayables,746977000.0,563427000.0,371702000.0,273196000.0,258220000.0,1
+"Property and equipment, net",us-gaap_PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization,PlantPropertyEquipmentNet,122445000.0,160530000.0,173331000.0,78543000.0,63608000.0,1
+Goodwill,us-gaap_Goodwill,Goodwill,1539986000.0,1803426000.0,1842850000.0,1823755000.0,966427000.0,1
+"Intangible assets, net",us-gaap_FiniteLivedIntangibleAssetsNet,IntangibleAssets,396714000.0,896677000.0,1292635000.0,1677660000.0,1709347000.0,1
+"Accounts receivable, net",us-gaap_AccountsReceivableNetCurrent,TradeReceivables,1819366000.0,1414246000.0,953810000.0,702814000.0,514520000.0,1
+Total current assets,us-gaap_AssetsCurrent,CurrentAssetsTotal,4430792000.0,2312190000.0,1616163000.0,1939083000.0,3235064000.0,1
+Other assets,us-gaap_OtherAssetsNoncurrent,OtherNonOperatingNonCurrentAssets,456550000.0,658367000.0,385998000.0,268426000.0,118158000.0,1
+Short-term debt,us-gaap_ShortTermBorrowings,ShortTermDebt,,0.0,215000000.0,33310000.0,25810000.0,1
+"Licensed asset obligation, non-current",app_LicensedAssetObligationNoncurrent,,,,0.0,26970000.0,8039000.0,1
+Total current liabilities,us-gaap_LiabilitiesCurrent,CurrentLiabilitiesTotal,1333788000.0,1057472000.0,944122000.0,578958000.0,640097000.0,1
+Other non-current liabilities,us-gaap_OtherLiabilitiesNoncurrent,OtherNonOperatingNonCurrentLiabilities,260353000.0,180378000.0,209925000.0,106676000.0,112820000.0,1
+"Operating lease liabilities, current",us-gaap_OperatingLeaseLiabilityCurrent,OperatingLeaseCurrentDebtEquivalent,13943000.0,14814000.0,13605000.0,14334000.0,18392000.0,1
+Current liabilities of discontinued operations,us-gaap_LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationCurrent,OtherNonOperatingCurrentLiabilities,0.0,,,,,1
+"Operating lease liabilities, non-current",us-gaap_OperatingLeaseLiabilityNoncurrent,OperatingLeaseNonCurrentDebtEquivalent,17811000.0,32608000.0,42905000.0,54153000.0,62498000.0,1
+Non-current liabilities of discontinued operations,us-gaap_LiabilitiesOfDisposalGroupIncludingDiscontinuedOperationNoncurrent,OtherNonOperatingNonCurrentLiabilities,0.0,,,,,1
+Total liabilities,us-gaap_Liabilities,Liabilities,5124939000.0,4779441000.0,4102858000.0,3945169000.0,4025288000.0,1
+Commitments and contingencies (Note 6),us-gaap_CommitmentsAndContingencies,,,,,,,1
+Long-term debt,us-gaap_LongTermDebtNoncurrent,LongTermDebt,3512987000.0,3508983000.0,2905906000.0,3178412000.0,3201834000.0,1
+Accrued and other current liabilities,us-gaap_AccruedLiabilitiesCurrent,OtherOperatingCurrentLiabilities,572868000.0,409392000.0,252202000.0,147801000.0,133770000.0,1
+Total assets,us-gaap_Assets,Assets,7259610000.0,5869259000.0,5359187000.0,5847846000.0,6163579000.0,1
+Prepaid expenses and other current assets,us-gaap_PrepaidExpenseAndOtherAssetsCurrent,OtherNonOperatingCurrentAssets,124330000.0,156533000.0,160201000.0,155785000.0,150040000.0,1
+Current assets of discontinued operations,us-gaap_AssetsOfDisposalGroupIncludingDiscontinuedOperationCurrent,AssetsHeldForSale,0.0,,,,,1
+Operating lease right-of-use assets,us-gaap_OperatingLeaseRightOfUseAsset,OperatingLeaseRightOfUseAsset,25457000.0,38069000.0,48210000.0,60379000.0,70975000.0,1
+Equity method investments,us-gaap_EquityMethodInvestments,InvestmentsEquityMethod,287666000.0,,,,,1
+Non-current assets of discontinued operations,us-gaap_DisposalGroupIncludingDiscontinuedOperationAssetsNoncurrent,OtherNonOperatingNonCurrentAssets,0.0,,,,,1
+"Preferred stock, $0.00003 par value—100,000 shares authorized, no shares issued and outstanding as of December 31, 2025 and 2024",us-gaap_PreferredStockValue,PreferredStock,0.0,0.0,0.0,0.0,0.0,1
+"Class A, Class B, and Class C Common Stock, $0.00003 par value—1,850,000 (Class A 1,500,000, Class B 200,000, Class C 150,000) shares authorized, 338,313 (Class A 307,955, Class B 30,358, Class C nil) and 340,042 (Class A 309,353, Class B 30,689, Class C nil) shares issued and outstanding as of December 31, 2025 and 2024, respectively",us-gaap_CommonStockValue,CommonEquity,11000.0,11000.0,11000.0,11000.0,11000.0,1
+Licensed asset obligation,app_LicensedAssetObligationCurrent,,,,13054000.0,15254000.0,17374000.0,1
+Total liabilities and stockholders’ equity,us-gaap_LiabilitiesAndStockholdersEquity,LiabilitiesAndEquity,7259610000.0,5869259000.0,5359187000.0,5847846000.0,6163579000.0,1
+Deferred revenue,us-gaap_ContractWithCustomerLiabilityCurrent,OtherOperatingCurrentLiabilities,,69839000.0,78559000.0,64018000.0,78930000.0,1
+"Deferred acquisition costs, current",app_DeferredAcquisitionCostsPayableCurrent,,,,0.0,31045000.0,107601000.0,1
+Additional paid-in capital,us-gaap_AdditionalPaidInCapital,AdditionalPaidInCapital,446550000.0,593699000.0,2134581000.0,3155748000.0,3160487000.0,1
+Retained earnings,us-gaap_RetainedEarningsAccumulatedDeficit,RetainedEarnings,1735097000.0,599204000.0,-812989000.0,-1169700000.0,-976954000.0,1
+Accumulated other comprehensive loss,us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,AccumulatedOtherComprehensiveIncome,-46987000.0,-103096000.0,-65274000.0,-83382000.0,-45454000.0,1
+Total stockholders’ equity,us-gaap_StockholdersEquity,AllEquityBalance,2134671000.0,1089818000.0,1256329000.0,1902677000.0,2138090000.0,1
+Redeemable noncontrolling interest,us-gaap_RedeemableNoncontrollingInterestEquityCarryingAmount,TemporaryAndMezzanineFinancing,,,0.0,0.0,201000.0,1

@@ -1,0 +1,59 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,2020-12-31,2019-12-31,2018-12-31,preferred_sign
+Net income/(loss),ifrs-full_ProfitLoss,ProfitLoss,2212000000.0,1138000000.0,-532000000.0,-430000000.0,-34000000.0,-581000000.0,-186000000.0,-78000000.0,1
+Depreciation of property and equipment and lease right-of-use assets,ifrs-full_AdjustmentsForDepreciationExpense,,79000000.0,85000000.0,110000000.0,118000000.0,94000000.0,86000000.0,71000000.0,21000000.0,1
+Amortization of intangible assets,ifrs-full_AdjustmentsForAmortisationExpense,,23000000.0,36000000.0,48000000.0,53000000.0,33000000.0,25000000.0,16000000.0,11000000.0,1
+Impairment charges on real estate assets,ck0001639920_AdjustmentForImpairmentChargesOnRealEstateAssets,,8000000.0,43000000.0,123000000.0,,,,,,1
+Write-off of content assets,ck0001639920_AdjustmentForWriteOffOfContentAssets,,0.0,0.0,29000000.0,,,,,,1
+Share-based compensation expense,ifrs-full_AdjustmentsForSharebasedPayments,StockBasedCompensationCF,247000000.0,267000000.0,321000000.0,381000000.0,223000000.0,176000000.0,122000000.0,88000000.0,1
+Finance income,ifrs-full_AdjustmentsForFinanceIncome,,292000000.0,328000000.0,161000000.0,421000000.0,246000000.0,94000000.0,275000000.0,455000000.0,-1
+Finance costs,ifrs-full_AdjustmentsForFinanceCosts,,266000000.0,352000000.0,220000000.0,132000000.0,91000000.0,510000000.0,333000000.0,584000000.0,1
+Income tax expense,ifrs-full_AdjustmentsForIncomeTaxExpense,,12000000.0,203000000.0,27000000.0,60000000.0,283000000.0,-128000000.0,55000000.0,-95000000.0,1
+Other,ifrs-full_OtherAdjustmentsToReconcileProfitLoss,,10000000.0,2000000.0,1000000.0,7000000.0,6000000.0,7000000.0,13000000.0,7000000.0,1
+(Increase)/decrease in trade receivables and other assets,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAndOtherReceivables,,-115000000.0,145000000.0,-145000000.0,-84000000.0,-245000000.0,-187000000.0,-27000000.0,-61000000.0,1
+Increase in trade and other liabilities,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAndOtherPayables,,281000000.0,183000000.0,501000000.0,226000000.0,137000000.0,425000000.0,454000000.0,291000000.0,1
+Increase in deferred revenue,ifrs-full_AdjustmentsForIncreaseDecreaseInDeferredIncomeIncludingContractLiabilities,,60000000.0,45000000.0,113000000.0,52000000.0,67000000.0,,,,1
+Increase/(decrease) in provisions,ck0001639920_AdjustmentsForIncreaseDecreaseInProvisions,,22000000.0,3000000.0,-5000000.0,-3000000.0,5000000.0,6000000.0,-35000000.0,-17000000.0,1
+Interest paid,ifrs-full_InterestPaidClassifiedAsOperatingActivities,,36000000.0,,,,,,,,-1
+Interest received,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,,242000000.0,216000000.0,111000000.0,37000000.0,3000000.0,4000000.0,14000000.0,18000000.0,1
+Income tax paid,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,,86000000.0,53000000.0,43000000.0,43000000.0,6000000.0,8000000.0,-4000000.0,9000000.0,-1
+Net cash flows from operating activities,ifrs-full_CashFlowsFromUsedInOperatingActivities,NetCashFromOperatingActivities,2933000000.0,2301000000.0,680000000.0,46000000.0,361000000.0,259000000.0,573000000.0,344000000.0,1
+"Business combinations, net of cash acquired",ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,,9000000.0,0.0,0.0,306000000.0,115000000.0,336000000.0,331000000.0,,-1
+Payment of deferred consideration pertaining to business combinations,ck0001639920_PaymentOfDeferredConsiderationPertainingToBusinessCombinations,,9000000.0,10000000.0,7000000.0,,,,,,-1
+Purchases of property and equipment,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,CapitalExpenses,61000000.0,17000000.0,6000000.0,25000000.0,85000000.0,78000000.0,135000000.0,125000000.0,-1
+Purchases of short term investments,ifrs-full_OtherCashPaymentsToAcquireEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities,,19271000000.0,7275000000.0,1590000000.0,457000000.0,497000000.0,1354000000.0,901000000.0,1069000000.0,-1
+Sales and maturities of short term investments,ifrs-full_OtherCashReceiptsFromSalesOfEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities,,17545000000.0,5804000000.0,1379000000.0,368000000.0,375000000.0,1421000000.0,1163000000.0,1226000000.0,1
+Change in restricted cash,ifrs-full_CashFlowsFromUsedInDecreaseIncreaseInRestrictedCashAndCashEquivalents,,2000000.0,1000000.0,4000000.0,0.0,1000000.0,2000000.0,2000000.0,-10000000.0,1
+Dividends received,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,,23000000.0,19000000.0,,,,,,,1
+Other,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities,,-5000000.0,-8000000.0,3000000.0,-3000000.0,-10000000.0,-27000000.0,-16000000.0,-44000000.0,1
+Net cash flows used in investing activities,ifrs-full_CashFlowsFromUsedInInvestingActivities,NetCashFromInvestingActivities,-1785000000.0,-1486000000.0,-217000000.0,-423000000.0,-187000000.0,-372000000.0,-218000000.0,-22000000.0,1
+Payments of lease liabilities,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,,73000000.0,69000000.0,66000000.0,43000000.0,35000000.0,24000000.0,17000000.0,,-1
+Lease incentives received,ck0001639920_ProceedsFromLeaseIncentives,,0.0,0.0,2000000.0,2000000.0,7000000.0,20000000.0,15000000.0,,1
+Repurchases of ordinary shares,ifrs-full_PaymentsToAcquireOrRedeemEntitysShares,StockRepurchasePayments,439000000.0,0.0,0.0,2000000.0,89000000.0,0.0,438000000.0,72000000.0,-1
+Proceeds from exercise of stock options,ifrs-full_ProceedsFromExerciseOfOptions,,372000000.0,933000000.0,366000000.0,43000000.0,167000000.0,319000000.0,154000000.0,163000000.0,1
+Payments for employee taxes withheld from restricted stock unit releases,ck0001639920_PaymentsForTaxesWithheldFromRestrictedStockUnitReleases,,241000000.0,135000000.0,68000000.0,40000000.0,54000000.0,,,,-1
+Net cash flows (used in)/from financing activities,ifrs-full_CashFlowsFromUsedInFinancingActivities,NetCashFromFinancingActivities,-381000000.0,729000000.0,234000000.0,-40000000.0,1250000000.0,285000000.0,-203000000.0,92000000.0,1
+Net increase in cash and cash equivalents,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,,767000000.0,1544000000.0,697000000.0,-417000000.0,1424000000.0,172000000.0,152000000.0,,1
+Net foreign exchange (losses)/gains on cash and cash equivalents,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,NetChangeInCash,-290000000.0,123000000.0,-66000000.0,156000000.0,169000000.0,-86000000.0,22000000.0,0.0,1
+Net increase/(decrease) in cash and cash equivalents,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,NetChangeInCash,,,,,,,,414000000.0,1
+Repurchases of ordinary shares in trade and other payables,ck0001639920_RepurchasesOfOrdinarySharesInTradeAndOtherPayables,,,,,,,,,5000000.0,1
+Share in losses/(earnings) of associate,ifrs-full_AdjustmentsForUndistributedProfitsOfInvestmentsAccountedForUsingEquityMethod,,,,,,,,,-1000000.0,-1
+Interest paid on lease liabilities,ck0001639920_InterestPaidOnLeaseLiabilities,,,36000000.0,-38000000.0,-53000000.0,-50000000.0,-55000000.0,-37000000.0,,-1
+Deferred consideration liability recognized in conjunction with business combination,ck0001639920_DeferredConsiderationLiabilityRecognizedInConjunctionWithBusinessCombination,,,,0.0,0.0,9000000.0,32000000.0,,,1
+Purchases of property and equipment in trade and other liabilities,ck0001639920_PurchasesOfPropertyAndEquipmentInTradeAndOtherPayables,,,2000000.0,6000000.0,5000000.0,13000000.0,16000000.0,14000000.0,23000000.0,1
+Employee taxes withheld from restricted stock unit releases in trade and other liabilities,ck0001639920_EmployeeTaxesWithheldFromRestrictedStockUnitReleasesInTradeAndOtherLiabilities,,,2000000.0,3000000.0,,,,,,1
+Other,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities,,,,,,,-30000000.0,-6000000.0,1000000.0,1
+Sales of long term investments,ck0001639920_ProceedsFromSaleOfLongTermInvestments,,,,0.0,0.0,144000000.0,,,,1
+"Proceeds from issuance of Exchangeable Notes, net of costs",ifrs-full_ProceedsFromNoncurrentBorrowings,DebtProceeds,,,0.0,0.0,1223000000.0,,,,1
+Proceeds from exercise of warrants,ifrs-full_ProceedsFromExerciseOfWarrants,,,,,,0.0,,,,1
+Increase in deferred revenue,ifrs-full_AdjustmentsForIncreaseDecreaseInDeferredIncome,,,,,,,73000000.0,59000000.0,38000000.0,1
+"Proceeds from issuance of Convertible Notes, net of costs",ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures,,,,,,,,,0.0,1
+Excess and obsolete reserve,ifrs-full_InventoryWritedown2011,,,0.0,0.0,14000000.0,,,,,1
+Proceeds from exercise of warrants,ck0001639920_ProceedsFromExerciseOfWarrants,,,,,,,0.0,74000000.0,,1
+Proceeds from issuance of warrants,ck0001639920_ProceedsFromIssuanceOfWarrant,,,,0.0,0.0,31000000.0,0.0,15000000.0,,1
+Recognition of lease right-of-use asset in exchange for lease liabilities,ck0001639920_LeaseRightOfUseAssetsObtainedInExchangeForLeaseLiabilities,,85000000.0,25000000.0,22000000.0,20000000.0,23000000.0,29000000.0,136000000.0,,1
+Real estate assets disposed of in exchange for finance lease receivables,ck0001639920_RealEstateAssetsDisposedOfInExchangeForFinanceLeaseReceivables,,9000000.0,62000000.0,,,,,,,1
+Issuance of ordinary shares upon net settlement of warrants,ck0001639920_IssuanceOfSharesUponNetSettlementOfWarrants,,0.0,36000000.0,,,,,,,1
+"Issuance of shares upon exercise of, or effective net settlement of, warrants",ck0001639920_IssuanceOfSharesUponExerciseOfOrNetSettlementOfWarrants,,,,,0.0,0.0,267000000.0,303000000.0,,1
+Issuance of shares upon exchange of Convertible Notes,ck0001639920_IssuanceOfSharesUponExchangeOfConvertibleNotes,,,,,,,0.0,0.0,1145000000.0,1
+Issuance of shares for business combinations,ck0001639920_IssuanceOfSharesInBusinessCombination,,,,,,,,0.0,0.0,1
+Issuance of shares in exchange for long term investment,ck0001639920_IssuanceOfSharesInExchangeForLongTermInvestment,,,,,,,,0.0,0.0,1

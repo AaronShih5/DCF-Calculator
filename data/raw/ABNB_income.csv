@@ -1,0 +1,20 @@
+label,concept,standard_concept,2025-12-31,2024-12-31,2023-12-31,2022-12-31,2021-12-31,preferred_sign
+Revenue,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,12241000000.0,11102000000.0,9917000000.0,8399000000.0,5991760000.0,1
+Operations and support,abnb_OperationsAndSupportExpense,,1327000000.0,1282000000.0,1186000000.0,1041000000.0,847057000.0,1
+Interest income,us-gaap_InvestmentIncomeNonoperating,NonoperatingIncomeExpense,705000000.0,818000000.0,721000000.0,186000000.0,12734000.0,1
+Cost of revenue,us-gaap_CostOfRevenue,CostOfGoodsAndServicesSold,2086000000.0,1878000000.0,1703000000.0,1499000000.0,1155833000.0,1
+Total costs and expenses,us-gaap_CostsAndExpenses,CostsSubtotal,9697000000.0,8549000000.0,8399000000.0,6597000000.0,5562443000.0,1
+Product development,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,2354000000.0,2056000000.0,1722000000.0,1502000000.0,1425048000.0,1
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,1342000000.0,1185000000.0,2025000000.0,950000000.0,835324000.0,1
+Sales and marketing,us-gaap_SellingAndMarketingExpense,SellingGeneralAndAdminExpenses,2588000000.0,2148000000.0,1763000000.0,1516000000.0,1186332000.0,1
+Income from operations,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,2544000000.0,2553000000.0,1518000000.0,1802000000.0,429317000.0,1
+"Other expense, net",us-gaap_OtherNonoperatingIncomeExpense,NonoperatingIncomeExpense,-112000000.0,-40000000.0,-54000000.0,25000000.0,-304659000.0,1
+Interest expense,us-gaap_InterestIncomeExpenseNonoperatingNet,InterestExpense,,,-83000000.0,-24000000.0,-437599000.0,1
+Income before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,3137000000.0,3331000000.0,2102000000.0,1989000000.0,-300207000.0,1
+Provision for (benefit from) income taxes,us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,626000000.0,683000000.0,-2690000000.0,96000000.0,51827000.0,1
+Net income,us-gaap_NetIncomeLoss,NetIncome,2511000000.0,2648000000.0,4792000000.0,1893000000.0,-352034000.0,1
+Basic (in USD per share),us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,,4.1,4.19,7.52,2.97,-1.14,1
+Diluted (in USD per share),us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,,4.03,4.11,7.24,2.79,-1.14,1
+Basic (in shares),us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,613000000.0,632000000.0,637000000.0,637000000.0,615891000.0,1
+Diluted (in Shares),us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,623000000.0,645000000.0,662000000.0,680000000.0,615891000.0,1
+Restructuring charges,us-gaap_RestructuringCharges,RestructuringExpenseBenefit,,0.0,0.0,89100000.0,112849000.0,1

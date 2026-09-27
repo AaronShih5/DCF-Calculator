@@ -1,0 +1,24 @@
+label,concept,standard_concept,2026-01-31,2025-01-31,2024-01-31,2023-01-31,2022-01-31,2021-01-31,preferred_sign
+Revenue,us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,4683946000.0,3626396000.0,2806489000.0,2065659000.0,1219327000.0,592049000.0,1
+Interest income,us-gaap_InvestmentIncomeNonoperating,NonoperatingIncomeExpense,190556000.0,209009000.0,,,,,1
+Cost of revenue,us-gaap_CostOfGoodsAndServicesSold,CostOfGoodsAndServicesSold,1537805000.0,1214673000.0,898558000.0,717540000.0,458433000.0,242588000.0,1
+Gross profit,us-gaap_GrossProfit,GrossProfit,3146141000.0,2411723000.0,1907931000.0,1348119000.0,760894000.0,349461000.0,1
+Research and development,us-gaap_ResearchAndDevelopmentExpense,ResearchAndDevelopmentExpenses,1969472000.0,1783379000.0,1287949000.0,788058000.0,466932000.0,237946000.0,1
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,SellingGeneralAndAdminExpenses,549697000.0,412262000.0,323008000.0,295821000.0,265033000.0,176135000.0,1
+Sales and marketing,us-gaap_SellingAndMarketingExpense,SellingGeneralAndAdminExpenses,2062137000.0,1672092000.0,1391747000.0,1106507000.0,743965000.0,479317000.0,1
+Total operating expenses,us-gaap_OperatingExpenses,TotalOperatingExpenses,4581306000.0,3867733000.0,3002704000.0,2190386000.0,1475930000.0,893398000.0,1
+Operating loss,us-gaap_OperatingIncomeLoss,OperatingIncomeLoss,-1435165000.0,-1456010000.0,-1094773000.0,-842267000.0,-715036000.0,-543937000.0,1
+Interest expense,us-gaap_InterestExpenseNonoperating,InterestExpense,8298000.0,2759000.0,,,,,-1
+"Other income (expense), net",us-gaap_OtherNonoperatingIncomeExpense,NonoperatingIncomeExpense,-59003000.0,-35339000.0,44887000.0,-47565000.0,28947000.0,-610000.0,1
+Loss before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,PretaxIncomeLoss,-1311910000.0,-1285099000.0,-849223000.0,-815993000.0,-676960000.0,-537040000.0,1
+Provision for (benefit from) income taxes,us-gaap_IncomeTaxExpenseBenefit,IncomeTaxes,17125000.0,4113000.0,-11233000.0,-18467000.0,2988000.0,2062000.0,1
+Net loss attributable to Snowflake Inc.,us-gaap_NetIncomeLoss,NetIncome,-1331616000.0,-1285640000.0,-836097000.0,-796705000.0,-679948000.0,-539102000.0,1
+Net loss,us-gaap_ProfitLoss,ProfitLoss,-1329035000.0,-1289212000.0,-837990000.0,-797526000.0,,,1
+Less: net income (loss) attributable to noncontrolling interest,us-gaap_NetIncomeLossAttributableToNoncontrollingInterest,MinorityInterestIncomeExpense,2581000.0,-3572000.0,-1893000.0,-821000.0,,,1
+Net loss per share attributable to Class A and Class B common stockholders - basic and diluted (in dollars per share),us-gaap_EarningsPerShareBasicAndDiluted,,,,,,,-3.81,1
+Weighted-average shares used in computing net loss per share attributable to Class A and Class B common stockholders - basic and diluted (in shares),us-gaap_WeightedAverageNumberOfShareOutstandingBasicAndDiluted,SharesFullyDilutedAverage,,,,,,141613196.0,1
+Net loss per share attributable to Snowflake Inc. common stockholders—basic (in dollars per share),us-gaap_EarningsPerShareBasic,,-3.95,-3.86,-2.55,-2.5,-2.26,,1
+Net loss per share attributable to Snowflake Inc. common stockholders—diluted (in dollars per share),us-gaap_EarningsPerShareDiluted,,-3.95,-3.86,-2.55,-2.5,-2.26,,1
+Weighted-average shares used in computing net loss per share attributable to Snowflake Inc. common stockholders—basic (in shares),us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,SharesAverage,337493000.0,332707000.0,328001000.0,318730000.0,300273227.0,,1
+Weighted-average shares used in computing net loss per share attributable to Snowflake Inc. common stockholders—diluted (in shares),us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,SharesFullyDilutedAverage,337493000.0,332707000.0,328001000.0,318730000.0,300273227.0,,1
+Interest income,us-gaap_InterestIncomeExpenseNonoperatingNet,InterestExpense,,,200663000.0,73839000.0,9129000.0,7507000.0,1
